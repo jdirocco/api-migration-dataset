@@ -1,0 +1,2 @@
+org/apereo/cas/config/CasMetricsRepositoryConfiguration/lambda$influxDbMetricsWriter$0(org.apereo.cas.influxdb.InfluxDbConnectionFactory,org.apereo.cas.configuration.model.core.metrics.MetricsProperties$InfluxDb,org.springframework.boot.actuate.metrics.Metric)
+org/apereo/cas/config/CasMetricsConfiguration/configureReporters(com.codahale.metrics.MetricRegistry)

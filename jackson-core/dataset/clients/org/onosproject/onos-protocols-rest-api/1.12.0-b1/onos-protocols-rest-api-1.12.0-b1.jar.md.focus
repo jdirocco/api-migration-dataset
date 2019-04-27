@@ -1,0 +1,2 @@
+org/onosproject/protocol/http/ctl/HttpSBControllerImpl/patch(org.onosproject.net.DeviceId,java.lang.String,java.io.InputStream,javax.ws.rs.core.MediaType)
+org/onosproject/protocol/http/ctl/HttpSBControllerImpl/getUrlString(org.onosproject.net.DeviceId,java.lang.String)

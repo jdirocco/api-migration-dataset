@@ -1,0 +1,4 @@
+org/apereo/cas/config/IgniteTicketRegistryConfiguration/igniteConfiguration()
+org/apereo/cas/ticket/registry/IgniteTicketRegistry/init()
+org/apereo/cas/ticket/registry/IgniteTicketRegistry/$deserializeLambda$(java.lang.invoke.SerializedLambda)
+org/apereo/cas/ticket/registry/IgniteTicketRegistry/configureSecureTransport()

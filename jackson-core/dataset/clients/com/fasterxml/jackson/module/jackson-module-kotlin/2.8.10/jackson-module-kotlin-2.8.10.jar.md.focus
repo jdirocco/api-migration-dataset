@@ -1,0 +1,3 @@
+com/fasterxml/jackson/module/kotlin/KotlinValueInstantiator/createFromObjectWith(com.fasterxml.jackson.databind.DeserializationContext,com.fasterxml.jackson.databind.deser.SettableBeanProperty%5B%5D,com.fasterxml.jackson.databind.deser.impl.PropertyValueBuffer)
+com/fasterxml/jackson/module/kotlin/KotlinNamesAnnotationIntrospector$hasCreatorAnnotation$1/invoke(com.fasterxml.jackson.databind.introspect.AnnotatedConstructor)
+com/fasterxml/jackson/module/kotlin/KotlinNamesAnnotationIntrospector/findKotlinParameterName(com.fasterxml.jackson.databind.introspect.AnnotatedParameter)

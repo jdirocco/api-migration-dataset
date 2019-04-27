@@ -1,0 +1,3 @@
+org/apereo/cas/config/IgniteTicketRegistryConfiguration/lambda$buildIgniteTicketCaches$0(org.apereo.cas.configuration.model.support.ignite.IgniteProperties,org.apereo.cas.ticket.TicketDefinition)
+org/apereo/cas/config/IgniteTicketRegistryConfiguration/buildSecureTransportForIgniteConfiguration()
+org/apereo/cas/config/IgniteTicketRegistryConfiguration/igniteConfiguration(org.apereo.cas.ticket.TicketCatalog)

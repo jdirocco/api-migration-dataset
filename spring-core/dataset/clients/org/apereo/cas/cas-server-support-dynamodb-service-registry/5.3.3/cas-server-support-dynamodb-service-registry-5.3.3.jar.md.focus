@@ -1,0 +1,5 @@
+org/apereo/cas/services/DynamoDbServiceRegistryFacilitator/buildTableAttributeValuesMapFromService(org.apereo.cas.services.RegisteredService)
+org/apereo/cas/services/DynamoDbServiceRegistryFacilitator/createServicesTable(boolean)
+org/apereo/cas/services/DynamoDbServiceRegistryFacilitator/getAll()
+org/apereo/cas/services/DynamoDbServiceRegistryFacilitator/delete(org.apereo.cas.services.RegisteredService)
+org/apereo/cas/services/DynamoDbServiceRegistryFacilitator/deserializeServiceFromBinaryBlob(java.util.Map)

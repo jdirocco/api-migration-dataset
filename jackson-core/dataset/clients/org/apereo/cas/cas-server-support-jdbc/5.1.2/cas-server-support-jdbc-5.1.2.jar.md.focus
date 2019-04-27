@@ -1,0 +1,4 @@
+org/apereo/cas/adaptors/jdbc/config/CasJdbcAuthenticationConfiguration/queryDatabaseAuthenticationHandler(org.apereo.cas.configuration.model.support.jdbc.JdbcAuthenticationProperties$Query)
+org/apereo/cas/adaptors/jdbc/config/CasJdbcAuthenticationConfiguration/bindModeSearchDatabaseAuthenticationHandler(org.apereo.cas.configuration.model.support.jdbc.JdbcAuthenticationProperties$Bind)
+org/apereo/cas/adaptors/jdbc/config/CasJdbcAuthenticationConfiguration/searchModeSearchDatabaseAuthenticationHandler(org.apereo.cas.configuration.model.support.jdbc.JdbcAuthenticationProperties$Search)
+org/apereo/cas/adaptors/jdbc/config/CasJdbcAuthenticationConfiguration/queryAndEncodeDatabaseAuthenticationHandler(org.apereo.cas.configuration.model.support.jdbc.JdbcAuthenticationProperties$Encode)

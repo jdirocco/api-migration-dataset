@@ -1,0 +1,5 @@
+org/apereo/cas/audit/spi/MessageBundleAwareResourceResolver/resolveMessagesFromBundleOrDefault(java.lang.String%5B%5D,java.lang.Exception)
+org/apereo/cas/audit/spi/config/CasCoreAuditConfiguration/casClientInfoLoggingFilter()
+org/apereo/cas/audit/spi/TicketOrCredentialPrincipalResolver/resolveArgument(java.lang.Object)
+org/apereo/cas/audit/spi/config/CasCoreAuditConfiguration$1/resolveFrom(org.aspectj.lang.JoinPoint,java.lang.Object)
+org/apereo/cas/audit/spi/DefaultDelegatingAuditTrailManager/record(org.apereo.inspektr.audit.AuditActionContext)

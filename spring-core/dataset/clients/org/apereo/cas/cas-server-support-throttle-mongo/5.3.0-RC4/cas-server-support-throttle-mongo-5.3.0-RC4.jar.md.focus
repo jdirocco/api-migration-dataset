@@ -1,0 +1,2 @@
+org/apereo/cas/web/support/MongoDbThrottledSubmissionHandlerInterceptorAdapter/exceedsThreshold(javax.servlet.http.HttpServletRequest)
+org/apereo/cas/web/support/config/CasMongoDbThrottlingConfiguration/authenticationThrottle(org.apereo.cas.audit.AuditTrailExecutionPlan)

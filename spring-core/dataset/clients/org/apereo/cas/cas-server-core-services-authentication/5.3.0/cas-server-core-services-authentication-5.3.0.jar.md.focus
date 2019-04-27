@@ -1,0 +1,7 @@
+org/apereo/cas/authentication/principal/DefaultResponse/getRedirectResponse(java.lang.String,java.util.Map)
+org/apereo/cas/authentication/support/DefaultCasProtocolAttributeEncoder/sanitizeAndTransformAttributeNames(java.util.Map,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/authentication/principal/AbstractServiceFactory/createService(javax.servlet.http.HttpServletRequest,java.lang.Class)
+org/apereo/cas/authentication/principal/AbstractServiceFactory/createService(java.lang.String,java.lang.Class)
+org/apereo/cas/authentication/principal/WebApplicationServiceResponseBuilder/build(org.apereo.cas.authentication.principal.WebApplicationService,java.lang.String,org.apereo.cas.authentication.Authentication)
+org/apereo/cas/authentication/support/AbstractProtocolAttributeEncoder/encodeAttributes(java.util.Map,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/authentication/DefaultMultifactorTriggerSelectionStrategy/hasMatchingAttribute(java.util.Map,java.lang.String,java.lang.String)

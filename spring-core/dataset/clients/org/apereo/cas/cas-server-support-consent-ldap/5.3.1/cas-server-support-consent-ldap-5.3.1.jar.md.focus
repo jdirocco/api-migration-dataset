@@ -1,0 +1,6 @@
+org/apereo/cas/consent/LdapConsentRepository/readConsentEntries()
+org/apereo/cas/consent/LdapConsentRepository/findConsentDecisions(java.lang.String)
+org/apereo/cas/consent/LdapConsentRepository/findConsentDecision(org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService,org.apereo.cas.authentication.Authentication)
+org/apereo/cas/consent/LdapConsentRepository/mergeDecision(org.ldaptive.LdapAttribute,org.apereo.cas.consent.ConsentDecision)
+org/apereo/cas/consent/LdapConsentRepository/readConsentEntry(java.lang.String)
+org/apereo/cas/consent/LdapConsentRepository/findConsentDecisions()

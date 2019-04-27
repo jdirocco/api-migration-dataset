@@ -1,0 +1,8 @@
+org/apereo/cas/authentication/principal/cache/AbstractPrincipalAttributesRepository/getAttributes(org.apereo.cas.authentication.principal.Principal)
+org/apereo/cas/services/ReturnMappedAttributeReleasePolicy/processFileBasedGroovyAttributes(java.util.Map,java.util.Map,java.util.regex.Matcher,java.lang.String)
+org/apereo/cas/services/AbstractRegisteredServiceAttributeReleasePolicy/getAttributes(org.apereo.cas.authentication.principal.Principal,org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/services/AbstractRegisteredServiceAttributeReleasePolicy/getConsentableAttributes(org.apereo.cas.authentication.principal.Principal,org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/services/AbstractRegisteredServiceAttributeReleasePolicy/resolveAttributesFromPrincipalAttributeRepository(org.apereo.cas.authentication.principal.Principal)
+org/apereo/cas/services/AbstractRegisteredServiceAttributeReleasePolicy/getReleasedByDefaultAttributes(org.apereo.cas.authentication.principal.Principal,java.util.Map)
+org/apereo/cas/services/AbstractRegisteredServiceAttributeReleasePolicy/insertPrincipalIdAsAttributeIfNeeded(org.apereo.cas.authentication.principal.Principal,java.util.Map,org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/services/ReturnRestfulAttributeReleasePolicy/getAttributesInternal(org.apereo.cas.authentication.principal.Principal,java.util.Map,org.apereo.cas.services.RegisteredService)

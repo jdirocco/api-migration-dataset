@@ -1,0 +1,4 @@
+de/bmiag/tapir/annotationprocessing/annotation/AnnotationProcessorProcessor/lambda$doValidate$1(org.eclipse.xtend.lib.macro.ValidationContext,org.eclipse.xtend.lib.macro.declaration.AnnotationReference,org.eclipse.xtend.lib.macro.declaration.TypeReference)
+de/bmiag/tapir/annotationprocessing/FileUtil/writeToFileInTargetFolder(org.eclipse.xtend.lib.macro.declaration.NamedElement,java.lang.String,java.lang.CharSequence,org.eclipse.xtend.lib.macro.CodeGenerationContext)
+de/bmiag/tapir/annotationprocessing/AnnotationProcessorProvider/getProcessorClassName(java.lang.String)
+de/bmiag/tapir/annotationprocessing/annotation/DynamicActiveProcessor/doTransform(org.eclipse.xtend.lib.macro.declaration.MutableAnnotationTypeDeclaration,org.eclipse.xtend.lib.macro.TransformationContext)

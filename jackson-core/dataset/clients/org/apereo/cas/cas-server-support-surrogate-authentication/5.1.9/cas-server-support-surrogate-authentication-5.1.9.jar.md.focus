@@ -1,0 +1,6 @@
+org/apereo/cas/authentication/SurrogateAuthenticationAspect/handleSurrogate(org.aspectj.lang.ProceedingJoinPoint,org.apereo.cas.authentication.Credential)
+org/apereo/cas/web/flow/SurrogateInitialAuthenticationAction/convertToSurrogateCredential(org.springframework.webflow.execution.RequestContext,org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/web/flow/SurrogateSelectionAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/authentication/surrogate/LdapSurrogateUsernamePasswordService/getEligibleAccountsForSurrogateToProxy(java.lang.String)
+org/apereo/cas/config/SurrogateAuthenticationConfiguration/surrogateAuthenticationService()
+org/apereo/cas/authentication/surrogate/LdapSurrogateUsernamePasswordService/canAuthenticateAs(java.lang.String,org.apereo.cas.authentication.principal.Principal)

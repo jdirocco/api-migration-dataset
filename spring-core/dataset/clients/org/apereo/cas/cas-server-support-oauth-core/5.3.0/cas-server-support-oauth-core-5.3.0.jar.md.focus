@@ -1,0 +1,2 @@
+org/apereo/cas/config/OAuthProtocolTicketCatalogConfiguration/buildAndRegisterAccessTokenDefinition(org.apereo.cas.ticket.TicketCatalog,org.apereo.cas.ticket.TicketDefinition)
+org/apereo/cas/config/OAuthProtocolTicketCatalogConfiguration/buildAndRegisterRefreshTokenDefinition(org.apereo.cas.ticket.TicketCatalog,org.apereo.cas.ticket.TicketDefinition)

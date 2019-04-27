@@ -1,0 +1,2 @@
+org/apereo/cas/grouper/GrouperFacade/getGroupsForSubjectId(java.lang.String)
+org/apereo/cas/grouper/services/GrouperRegisteredServiceAccessStrategy/doPrincipalAttributesAllowServiceAccess(java.lang.String,java.util.Map)

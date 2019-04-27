@@ -1,0 +1,2 @@
+org/apereo/cas/monitor/HazelcastHealthIndicator$HazelcastStatistics/toString(java.lang.StringBuilder)
+org/apereo/cas/monitor/HazelcastHealthIndicator/getStatistics()

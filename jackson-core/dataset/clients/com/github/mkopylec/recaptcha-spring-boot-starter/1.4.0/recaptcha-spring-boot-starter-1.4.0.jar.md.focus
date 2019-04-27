@@ -1,0 +1,4 @@
+com/github/mkopylec/recaptcha/security/RecaptchaAuthenticationFilter/setAuthenticationFailureHandler(org.springframework.security.web.authentication.AuthenticationFailureHandler)
+com/github/mkopylec/recaptcha/security/RecaptchaAuthenticationFilter/setAuthenticationSuccessHandler(org.springframework.security.web.authentication.AuthenticationSuccessHandler)
+com/github/mkopylec/recaptcha/security/RecaptchaAuthenticationFilter/attemptAuthentication(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+com/github/mkopylec/recaptcha/security/login/LoginFailuresCountingHandler/setRedirectStrategy(org.springframework.security.web.RedirectStrategy)

@@ -1,0 +1,2 @@
+org/apereo/cas/support/geo/google/GoogleMapsGeoLocationService/GoogleMapsGeoLocationService(org.apereo.cas.configuration.model.support.geo.googlemaps.GoogleMapsProperties)
+org/apereo/cas/support/geo/google/GoogleMapsGeoLocationService/locate(java.lang.Double,java.lang.Double)

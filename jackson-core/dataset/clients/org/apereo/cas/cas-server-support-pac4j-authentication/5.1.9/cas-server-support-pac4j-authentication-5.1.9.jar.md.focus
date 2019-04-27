@@ -1,0 +1,2 @@
+org/apereo/cas/integration/pac4j/authentication/handler/support/UsernamePasswordWrapperAuthenticationHandler/convertToPac4jCredentials(org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/integration/pac4j/authentication/handler/support/AbstractWrapperAuthenticationHandler/doAuthentication(org.apereo.cas.authentication.Credential)

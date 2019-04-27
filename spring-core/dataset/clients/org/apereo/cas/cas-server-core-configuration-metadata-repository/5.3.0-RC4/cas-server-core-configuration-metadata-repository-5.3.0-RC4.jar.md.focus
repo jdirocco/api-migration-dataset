@@ -1,0 +1,2 @@
+org/apereo/cas/metadata/rest/CasConfigurationMetadataServerController/search(java.lang.String)
+org/apereo/cas/metadata/rest/ConfigurationMetadataSearchResult/ConfigurationMetadataSearchResult(org.springframework.boot.configurationmetadata.ConfigurationMetadataProperty,org.apereo.cas.metadata.CasConfigurationMetadataRepository)

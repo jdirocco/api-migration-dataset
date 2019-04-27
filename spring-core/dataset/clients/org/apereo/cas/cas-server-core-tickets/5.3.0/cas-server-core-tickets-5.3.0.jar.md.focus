@@ -1,0 +1,4 @@
+org/apereo/cas/config/CasCoreTicketsConfiguration/ticketGrantingTicketExpirationPolicy()
+org/apereo/cas/config/CasCoreTicketsConfiguration/ticketRegistry()
+org/apereo/cas/config/CasCoreTicketsConfiguration/protocolTicketCipherExecutor()
+org/apereo/cas/config/CasCoreTicketsConfiguration/casClientTicketValidator()

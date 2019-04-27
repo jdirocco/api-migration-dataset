@@ -1,0 +1,6 @@
+org/apereo/cas/gua/config/GraphicalUserAuthenticationConfiguration/userGraphicalAuthenticationRepository()
+org/apereo/cas/web/flow/GraphicalUserAuthenticationWebflowConfigurer/doInitialize()
+org/apereo/cas/gua/impl/LdapUserGraphicalAuthenticationRepository/getGraphics(java.lang.String)
+org/apereo/cas/gua/impl/LdapUserGraphicalAuthenticationRepository/searchForId(java.lang.String)
+org/apereo/cas/gua/impl/StaticUserGraphicalAuthenticationRepository/getGraphics(java.lang.String)
+org/apereo/cas/web/flow/DisplayUserGraphicsBeforeAuthenticationAction/doExecute(org.springframework.webflow.execution.RequestContext)

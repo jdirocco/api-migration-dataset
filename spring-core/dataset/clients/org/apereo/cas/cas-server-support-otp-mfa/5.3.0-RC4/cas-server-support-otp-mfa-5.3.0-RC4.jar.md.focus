@@ -1,0 +1,5 @@
+org/apereo/cas/otp/repository/credentials/BaseJsonOneTimeTokenCredentialRepository/get(java.lang.String)
+org/apereo/cas/otp/web/flow/OneTimeTokenAccountCheckRegistrationAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/otp/web/flow/OneTimeTokenAccountSaveRegistrationAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/otp/repository/credentials/BaseJsonOneTimeTokenCredentialRepository/update(org.apereo.cas.authentication.OneTimeTokenAccount)
+org/apereo/cas/otp/repository/token/CachingOneTimeTokenRepository/store(org.apereo.cas.authentication.OneTimeToken)

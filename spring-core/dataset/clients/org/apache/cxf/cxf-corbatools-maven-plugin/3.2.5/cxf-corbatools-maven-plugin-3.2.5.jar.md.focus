@@ -1,0 +1,2 @@
+org/apache/cxf/maven_plugin/corba/maven/plugins/WSDLToIDLPlugin/execute()
+org/apache/cxf/maven_plugin/corba/maven/plugins/IDLToWSDLPlugin/execute()

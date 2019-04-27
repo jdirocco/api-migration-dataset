@@ -1,0 +1,4 @@
+com/fasterxml/jackson/datatype/jsonorg/JSONObjectDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)
+com/fasterxml/jackson/datatype/jsonorg/JSONArraySerializer/serializeContents(org.json.JSONArray,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)
+com/fasterxml/jackson/datatype/jsonorg/JSONObjectSerializer/serializeContents(org.json.JSONObject,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)
+com/fasterxml/jackson/datatype/jsonorg/JSONArrayDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)

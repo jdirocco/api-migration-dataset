@@ -1,0 +1,3 @@
+org/apereo/cas/config/SyncopeAuthenticationConfiguration/syncopeAuthenticationHandler()
+org/apereo/cas/syncope/authentication/SyncopeAuthenticationHandler/buildSyncopeUserAttributes(org.apache.syncope.common.lib.to.UserTO)
+org/apereo/cas/syncope/authentication/SyncopeAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)

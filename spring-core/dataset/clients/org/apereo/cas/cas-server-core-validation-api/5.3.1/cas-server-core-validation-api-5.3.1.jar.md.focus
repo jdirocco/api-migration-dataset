@@ -1,0 +1,2 @@
+org/apereo/cas/validation/RegisteredServiceRequiredHandlersServiceTicketValidationAuthorizer/authorize(javax.servlet.http.HttpServletRequest,org.apereo.cas.authentication.principal.Service,org.apereo.cas.validation.Assertion)
+org/apereo/cas/validation/AbstractCasProtocolValidationSpecification/isSatisfiedBy(org.apereo.cas.validation.Assertion,javax.servlet.http.HttpServletRequest)

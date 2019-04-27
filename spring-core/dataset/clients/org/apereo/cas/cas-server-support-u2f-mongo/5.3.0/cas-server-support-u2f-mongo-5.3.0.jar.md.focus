@@ -1,0 +1,4 @@
+org/apereo/cas/adaptors/u2f/storage/U2FMongoDbDeviceRepository/authenticateDevice(java.lang.String,com.yubico.u2f.data.DeviceRegistration)
+org/apereo/cas/adaptors/u2f/storage/U2FMongoDbDeviceRepository/clean()
+org/apereo/cas/adaptors/u2f/storage/U2FMongoDbDeviceRepository/getRegisteredDevices(java.lang.String)
+org/apereo/cas/config/U2FMongoDbConfiguration/u2fDeviceRepository()

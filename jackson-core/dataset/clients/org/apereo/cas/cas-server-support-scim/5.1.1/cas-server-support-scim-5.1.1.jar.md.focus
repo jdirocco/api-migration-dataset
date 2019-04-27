@@ -1,0 +1,4 @@
+org/apereo/cas/scim/v2/Scim2Provisioner/Scim2Provisioner(java.lang.String,java.lang.String,java.lang.String,java.lang.String,org.apereo.cas.scim.v2.Scim2PrincipalAttributeMapper)
+org/apereo/cas/scim/v1/Scim1PrincipalAttributeMapper/map(com.unboundid.scim.data.UserResource,org.apereo.cas.authentication.principal.Principal,org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/scim/v1/Scim1Provisioner/create(org.apereo.cas.authentication.principal.Principal,org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/scim/v2/Scim2PrincipalAttributeMapper/map(com.unboundid.scim2.common.types.UserResource,org.apereo.cas.authentication.principal.Principal,org.apereo.cas.authentication.UsernamePasswordCredential)

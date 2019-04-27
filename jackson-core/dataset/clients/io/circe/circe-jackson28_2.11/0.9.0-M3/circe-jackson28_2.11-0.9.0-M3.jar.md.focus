@@ -1,0 +1,6 @@
+io/circe/jackson/CirceJsonSerializer$/serialize(io.circe.Json,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)
+io/circe/jackson/JacksonParser$class/parseFile(io.circe.jackson.WithJacksonMapper,java.io.File)
+io/circe/jackson/JacksonParser$class/parseByteArray(io.circe.jackson.WithJacksonMapper,byte%5B%5D)
+io/circe/jackson/CirceJsonDeserializer$$anonfun$1/apply(io.circe.Json)
+io/circe/jackson/CirceJsonDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext,scala.collection.immutable.List)
+io/circe/jackson/JacksonParser$class/parse(io.circe.jackson.WithJacksonMapper,java.lang.String)

@@ -1,0 +1,4 @@
+org/springframework/security/remoting/rmi/ContextPropagatingRemoteInvocation/ContextPropagatingRemoteInvocation(org.aopalliance.intercept.MethodInvocation)
+org/springframework/security/remoting/dns/JndiDnsResolver/resolveServiceEntry(java.lang.String,java.lang.String,javax.naming.directory.DirContext)
+org/springframework/security/remoting/httpinvoker/AuthenticationSimpleHttpInvokerRequestExecutor/prepareConnection(java.net.HttpURLConnection,int)
+org/springframework/security/remoting/rmi/ContextPropagatingRemoteInvocation/invoke(java.lang.Object)

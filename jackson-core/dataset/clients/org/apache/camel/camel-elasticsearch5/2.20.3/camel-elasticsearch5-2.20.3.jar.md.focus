@@ -1,0 +1,8 @@
+org/apache/camel/component/elasticsearch5/ElasticsearchComponent/parseTransportAddresses(java.lang.String,org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration)
+org/apache/camel/component/elasticsearch5/ElasticsearchProducer/resolveOperation(org.apache.camel.Exchange)
+org/apache/camel/component/elasticsearch5/converter/ElasticsearchActionRequestConverter/createUpdateRequest(java.lang.Object,org.apache.camel.Exchange)
+org/apache/camel/component/elasticsearch5/ElasticsearchProducer/process(org.apache.camel.Exchange)
+org/apache/camel/component/elasticsearch5/converter/ElasticsearchActionRequestConverter/createIndexRequest(java.lang.Object,org.apache.camel.Exchange)
+org/apache/camel/component/elasticsearch5/ElasticsearchProducer/doStart()
+org/apache/camel/component/elasticsearch5/ElasticsearchProducer/createClient()
+org/apache/camel/component/elasticsearch5/converter/ElasticsearchActionRequestConverter/toSearchRequest(java.lang.Object,org.apache.camel.Exchange)

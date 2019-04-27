@@ -1,0 +1,4 @@
+de/bmiag/tapir/core/annotation/label/CustomLabelProcessor/doTransform(org.eclipse.xtend.lib.macro.declaration.MutableClassDeclaration,org.eclipse.xtend.lib.macro.TransformationContext)
+de/bmiag/tapir/core/annotation/label/CustomLabelProcessor/isType(org.eclipse.xtend.lib.macro.declaration.MutableFieldDeclaration,java.lang.Class)
+de/bmiag/tapir/core/annotation/reference/ReferenceProcessor/doTransform(org.eclipse.xtend.lib.macro.declaration.MutableFieldDeclaration,org.eclipse.xtend.lib.macro.TransformationContext)
+de/bmiag/tapir/core/annotation/include/IncludeProcessor/doTransform(org.eclipse.xtend.lib.macro.declaration.MutableFieldDeclaration,org.eclipse.xtend.lib.macro.TransformationContext)

@@ -1,0 +1,2 @@
+org/apereo/cas/services/CosmosDbServiceRegistry/update(org.apereo.cas.services.RegisteredService)
+org/apereo/cas/config/CosmosDbServiceRegistryConfiguration/cosmosDbServiceRegistry()

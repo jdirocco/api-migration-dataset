@@ -1,0 +1,6 @@
+org/apereo/cas/config/EhcacheTicketRegistryConfiguration/ticketRMISynchronousCacheReplicator()
+org/apereo/cas/config/EhcacheTicketRegistryConfiguration/cacheManager()
+org/apereo/cas/ticket/registry/EhCacheTicketRegistry/getTicket(java.lang.String)
+org/apereo/cas/ticket/registry/EhCacheTicketRegistry/addTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/config/EhcacheTicketRegistryConfiguration/ehcacheTicketsCache(net.sf.ehcache.CacheManager)
+org/apereo/cas/ticket/registry/EhCacheTicketRegistry/EhCacheTicketRegistry(net.sf.ehcache.Cache,org.apereo.cas.CipherExecutor)

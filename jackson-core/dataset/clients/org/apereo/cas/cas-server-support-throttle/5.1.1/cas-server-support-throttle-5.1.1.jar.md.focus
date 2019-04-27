@@ -1,0 +1,3 @@
+org/apereo/cas/web/support/AbstractInMemoryThrottledSubmissionHandlerInterceptorAdapter/decrement()
+org/apereo/cas/web/support/AbstractThrottledSubmissionHandlerInterceptorAdapter/preHandle(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.Object)
+org/apereo/cas/web/support/InMemoryThrottledSubmissionByIpAddressAndUsernameHandlerInterceptorAdapter/constructKey(javax.servlet.http.HttpServletRequest)

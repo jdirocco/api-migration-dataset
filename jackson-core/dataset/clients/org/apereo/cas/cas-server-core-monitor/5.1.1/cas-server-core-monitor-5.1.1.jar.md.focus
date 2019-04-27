@@ -1,0 +1,4 @@
+org/apereo/cas/monitor/SessionMonitor/observe()
+org/apereo/cas/monitor/config/CasCoreMonitorConfiguration/healthCheckMonitor()
+org/apereo/cas/monitor/SimpleCacheStatistics/toString(java.lang.StringBuilder)
+org/apereo/cas/monitor/CacheStatus/buildDescription(java.lang.String,org.apereo.cas.monitor.CacheStatistics%5B%5D)

@@ -1,0 +1,2 @@
+de/bmiag/tapir/util/logger/ExecutionTimeLogger/logExecutionTime(org.apache.logging.log4j.Logger,java.util.function.Supplier,java.util.function.Supplier)
+de/bmiag/tapir/util/scope/ThreadScopeContext/processDestructionCallbacks()

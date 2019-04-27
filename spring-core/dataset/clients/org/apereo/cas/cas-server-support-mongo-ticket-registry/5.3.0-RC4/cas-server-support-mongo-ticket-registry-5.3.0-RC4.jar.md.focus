@@ -1,0 +1,5 @@
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/updateTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/buildTicketAsDocument(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/getTicket(java.lang.String)
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/deleteSingleTicket(java.lang.String)
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/createTicketCollection(org.apereo.cas.ticket.TicketDefinition,org.apereo.cas.mongo.MongoDbConnectionFactory)

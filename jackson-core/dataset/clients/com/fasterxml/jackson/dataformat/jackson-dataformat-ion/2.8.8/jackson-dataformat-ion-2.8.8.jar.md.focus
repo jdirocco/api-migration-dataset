@@ -1,0 +1,7 @@
+com/fasterxml/jackson/dataformat/ion/IonParser/nextToken()
+com/fasterxml/jackson/dataformat/ion/IonGenerator/_verifyValueWrite(java.lang.String)
+com/fasterxml/jackson/dataformat/ion/polymorphism/IonAnnotationIntrospector/findTypeResolver(com.fasterxml.jackson.databind.cfg.MapperConfig,com.fasterxml.jackson.databind.introspect.AnnotatedClass,com.fasterxml.jackson.databind.JavaType)
+com/fasterxml/jackson/dataformat/ion/IonFactory/_createGenerator(java.io.OutputStream,com.fasterxml.jackson.core.JsonEncoding,boolean)
+com/fasterxml/jackson/dataformat/ion/IonParser/getNumberValue()
+com/fasterxml/jackson/dataformat/ion/IonParser/_handleEOF()
+com/fasterxml/jackson/dataformat/ion/IonParser/getIonValue()

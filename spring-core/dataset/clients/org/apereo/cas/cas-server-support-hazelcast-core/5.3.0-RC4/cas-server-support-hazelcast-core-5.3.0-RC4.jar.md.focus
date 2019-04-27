@@ -1,0 +1,5 @@
+org/apereo/cas/hz/HazelcastConfigurationFactory/createDiscoveryJoinConfig(com.hazelcast.config.Config,org.apereo.cas.configuration.model.support.hazelcast.HazelcastClusterProperties)
+org/apereo/cas/hz/HazelcastConfigurationFactory/buildMapConfig(org.apereo.cas.configuration.model.support.hazelcast.BaseHazelcastProperties,java.lang.String,long)
+org/apereo/cas/hz/HazelcastConfigurationFactory/finalizeConfig(com.hazelcast.config.Config,org.apereo.cas.configuration.model.support.hazelcast.BaseHazelcastProperties)
+org/apereo/cas/hz/HazelcastConfigurationFactory/build(org.apereo.cas.configuration.model.support.hazelcast.BaseHazelcastProperties)
+org/apereo/cas/hz/HazelcastConfigurationFactory/createDefaultJoinConfig(com.hazelcast.config.Config,org.apereo.cas.configuration.model.support.hazelcast.HazelcastClusterProperties)

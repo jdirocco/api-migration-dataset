@@ -1,0 +1,4 @@
+org/apereo/cas/digest/DigestAuthenticationHandler/authenticate(org.apereo.cas.authentication.Credential)
+org/apereo/cas/digest/util/DigestAuthenticationUtils/createNonce()
+org/apereo/cas/digest/web/flow/DigestAuthenticationAction/constructCredentialsFromRequest(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/digest/web/flow/DigestAuthenticationWebflowConfigurer/doInitialize()

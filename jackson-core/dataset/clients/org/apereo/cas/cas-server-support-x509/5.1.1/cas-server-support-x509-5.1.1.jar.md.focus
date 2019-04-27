@@ -1,0 +1,8 @@
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/crlDistributionPointRevocationChecker()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/x509SubjectAlternativeNameUPNPrincipalResolver()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/ldaptiveResourceCRLFetcher()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/x509SubjectPrincipalResolver()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/x509SubjectDNPrincipalResolver()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/x509SerialNumberPrincipalResolver()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/x509CredentialsAuthenticationHandler()
+org/apereo/cas/adaptors/x509/config/X509AuthenticationConfiguration/resourceCrlRevocationChecker()

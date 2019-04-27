@@ -1,0 +1,2 @@
+org/apereo/cas/support/geo/maxmind/MaxmindDatabaseGeoLocationService/locate(java.net.InetAddress)
+org/apereo/cas/support/geo/config/CasGeoLocationConfiguration/geoLocationService()

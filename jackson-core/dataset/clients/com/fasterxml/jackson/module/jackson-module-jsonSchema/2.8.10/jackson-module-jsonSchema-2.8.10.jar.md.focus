@@ -1,0 +1,5 @@
+com/fasterxml/jackson/module/jsonSchema/factories/ObjectVisitor/propertySchema(com.fasterxml.jackson.databind.BeanProperty)
+com/fasterxml/jackson/module/jsonSchema/customProperties/HyperSchemaFactoryWrapper/addHyperlinks(com.fasterxml.jackson.module.jsonSchema.JsonSchema,com.fasterxml.jackson.databind.JavaType)
+com/fasterxml/jackson/module/jsonSchema/JsonSchemaIdResolver/typeFromId(com.fasterxml.jackson.databind.DatabindContext,java.lang.String)
+com/fasterxml/jackson/module/jsonSchema/customProperties/TitleSchemaFactoryWrapper/addTitle(com.fasterxml.jackson.module.jsonSchema.JsonSchema,com.fasterxml.jackson.databind.JavaType)
+com/fasterxml/jackson/module/jsonSchema/customProperties/ValidationSchemaFactoryWrapper/addValidationConstraints(com.fasterxml.jackson.module.jsonSchema.JsonSchema,com.fasterxml.jackson.databind.BeanProperty)

@@ -1,0 +1,5 @@
+org/apereo/cas/pm/BasePasswordManagementService/createToken(java.lang.String)
+org/apereo/cas/pm/impl/JsonResourcePasswordManagementService/changeInternal(org.apereo.cas.authentication.Credential,org.apereo.cas.pm.PasswordChangeBean)
+org/apereo/cas/pm/config/PasswordManagementConfiguration/passwordManagementCipherExecutor()
+org/apereo/cas/pm/BasePasswordManagementService/parseToken(java.lang.String)
+org/apereo/cas/pm/config/PasswordManagementConfiguration/passwordChangeService()

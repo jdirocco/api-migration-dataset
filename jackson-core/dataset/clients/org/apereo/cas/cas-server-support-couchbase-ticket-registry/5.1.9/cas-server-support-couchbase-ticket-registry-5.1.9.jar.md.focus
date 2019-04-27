@@ -1,0 +1,5 @@
+org/apereo/cas/config/CouchbaseTicketRegistryConfiguration/ticketRegistryCouchbaseClientFactory()
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/updateTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/CouchbaseTicketRegistry(org.apereo.cas.couchbase.core.CouchbaseClientFactory,boolean)
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/getViewResultIteratorForPrefixedTickets(java.lang.String)
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/addTicket(org.apereo.cas.ticket.Ticket)

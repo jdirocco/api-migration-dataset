@@ -1,0 +1,6 @@
+org/apereo/cas/adaptors/jdbc/QueryDatabaseAuthenticationHandler/query(org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/adaptors/jdbc/QueryAndEncodeDatabaseAuthenticationHandler/digestEncodedPassword(java.lang.String,java.util.Map)
+org/apereo/cas/adaptors/jdbc/SearchModeSearchDatabaseAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)
+org/apereo/cas/adaptors/jdbc/BindModeSearchDatabaseAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)
+org/apereo/cas/adaptors/jdbc/QueryAndEncodeDatabaseAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)
+org/apereo/cas/adaptors/jdbc/QueryDatabaseAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)

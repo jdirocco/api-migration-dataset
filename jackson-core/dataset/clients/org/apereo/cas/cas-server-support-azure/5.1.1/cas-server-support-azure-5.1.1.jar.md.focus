@@ -1,0 +1,5 @@
+org/apereo/cas/config/support/authentication/AzureAuthenticatorAuthenticationEventExecutionPlanConfiguration/azureAuthenticatorInstance()
+org/apereo/cas/adaptors/azure/AzureAuthenticatorAuthenticationHandler/doAuthentication(org.apereo.cas.authentication.Credential)
+org/apereo/cas/adaptors/azure/web/flow/AzureAuthenticatorGenerateTokenAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/config/support/authentication/AzureAuthenticatorAuthenticationEventExecutionPlanConfiguration/azureAuthenticatorAuthenticationProvider()
+org/apereo/cas/adaptors/azure/AzureAuthenticatorAuthenticationRequestBuilder/build(org.apereo.cas.authentication.principal.Principal,org.apereo.cas.adaptors.azure.AzureAuthenticatorTokenCredential)

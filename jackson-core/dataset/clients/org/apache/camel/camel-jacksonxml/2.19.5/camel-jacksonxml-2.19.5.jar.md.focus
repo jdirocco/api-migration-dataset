@@ -1,0 +1,3 @@
+org/apache/camel/component/jacksonxml/JacksonXMLDataFormat/unmarshal(org.apache.camel.Exchange,java.io.InputStream)
+org/apache/camel/component/jacksonxml/converter/JacksonXMLTypeConverters/convertTo(java.lang.Class,org.apache.camel.Exchange,java.lang.Object,org.apache.camel.spi.TypeConverterRegistry)
+org/apache/camel/component/jacksonxml/JacksonXMLDataFormat/doStart()

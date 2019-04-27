@@ -1,0 +1,5 @@
+org/wildfly/camel/catalog/CatalogCreator/generateProperties()
+org/wildfly/camel/catalog/CatalogCreator$1/visitFile(java.nio.file.Path,java.nio.file.attribute.BasicFileAttributes)
+org/wildfly/camel/catalog/CatalogCreator/collectAvailable()
+org/wildfly/camel/catalog/CatalogCreator/generateRoadmaps()
+org/wildfly/camel/catalog/CatalogCreator/collectSupported()

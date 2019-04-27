@@ -1,0 +1,3 @@
+org/wicketstuff/annotation/scan/AnnotatedMountScanner/getPatternMatches(java.lang.String)
+org/wicketstuff/config/MatchingResources/getAnnotatedMatches(java.lang.Class,boolean)
+org/wicketstuff/config/MatchingResources/MatchingResources(java.lang.String)

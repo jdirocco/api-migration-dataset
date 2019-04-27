@@ -1,0 +1,5 @@
+org/apereo/cas/web/ldap/LdapAuthenticationProvider/authenticate(org.springframework.security.core.Authentication)
+org/apereo/cas/config/CasWebApplicationSpringSecurityConfiguration/isLdapAuthorizationActive()
+org/apereo/cas/web/security/CasLdapUserDetailsManagerConfigurer/build()
+org/apereo/cas/config/CasWebApplicationSpringSecurityConfiguration/init(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)
+org/apereo/cas/web/security/CasJdbcUserDetailsManagerConfigurer/configure(org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder)

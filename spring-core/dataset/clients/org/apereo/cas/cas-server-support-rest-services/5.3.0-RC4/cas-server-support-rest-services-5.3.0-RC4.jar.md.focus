@@ -1,0 +1,2 @@
+org/apereo/cas/support/rest/RegisteredServiceResource/authenticateRequest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+org/apereo/cas/support/rest/RegisteredServiceResource/isAuthenticatedPrincipalAuthorized(org.apereo.cas.authentication.Authentication)

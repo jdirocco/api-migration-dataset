@@ -1,0 +1,3 @@
+org/apereo/cas/web/flow/ValidateCaptchaAction/getError(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/web/flow/CasCaptchaWebflowConfigurer/createValidateRecaptchaAction(org.springframework.webflow.engine.Flow)
+org/apereo/cas/web/flow/ValidateCaptchaAction/doExecute(org.springframework.webflow.execution.RequestContext)

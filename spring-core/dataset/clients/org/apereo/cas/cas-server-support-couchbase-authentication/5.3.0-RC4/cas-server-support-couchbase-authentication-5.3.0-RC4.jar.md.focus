@@ -1,0 +1,2 @@
+org/apereo/cas/persondir/support/CouchbasePersonAttributeDao/getPerson(java.lang.String)
+org/apereo/cas/authentication/CouchbaseAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)

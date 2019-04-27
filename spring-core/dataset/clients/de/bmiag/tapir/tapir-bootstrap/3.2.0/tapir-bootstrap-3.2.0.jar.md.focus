@@ -1,0 +1,3 @@
+de/bmiag/tapir/bootstrap/TapirFactoriesBootstrapStrategy/getBootstrapConfiguration()
+de/bmiag/tapir/bootstrap/TapirLicense/TapirLicense()
+de/bmiag/tapir/bootstrap/annotation/BootstrapConfigurationProcessor/doGenerateCode(org.eclipse.xtend.lib.macro.declaration.ClassDeclaration,org.eclipse.xtend.lib.macro.CodeGenerationContext)

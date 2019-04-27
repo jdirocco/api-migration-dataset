@@ -1,0 +1,2 @@
+org/apereo/cas/authentication/surrogate/SurrogateJdbcAuthenticationService/canAuthenticateAsInternal(java.lang.String,org.apereo.cas.authentication.principal.Principal,org.apereo.cas.authentication.principal.Service)
+org/apereo/cas/authentication/surrogate/SurrogateJdbcAuthenticationService/getEligibleAccountsForSurrogateToProxy(java.lang.String)

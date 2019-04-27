@@ -1,0 +1,2 @@
+org/apereo/cas/config/CassandraAuthenticationConfiguration/cassandraAuthenticationHandler()
+org/apereo/cas/authentication/CassandraAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)

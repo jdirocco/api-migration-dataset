@@ -1,0 +1,7 @@
+com/github/sabomichal/springinjector/SpringInjector/inject(java.lang.Object,com.github.sabomichal.springinjector.IFieldValueFactory)
+com/github/sabomichal/springinjector/LazyInitProxyFactory/createProxy(java.lang.Class,com.github.sabomichal.springinjector.IProxyTargetLocator)
+com/github/sabomichal/springinjector/LazyInitProxyFactory$JdkHandler/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object%5B%5D)
+com/github/sabomichal/springinjector/SpringBeanLocator/getBeansByName(org.springframework.context.ApplicationContext,java.util.List)
+com/github/sabomichal/springinjector/LazyInitProxyFactory$AbstractCGLibInterceptor/intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object%5B%5D,net.sf.cglib.proxy.MethodProxy)
+com/github/sabomichal/springinjector/SpringBeanLocator/lookupSpringBean(org.springframework.context.ApplicationContext,java.lang.String,java.lang.Class)
+com/github/sabomichal/springinjector/AnnotFieldValueFactory/getBeanNameOfClass(org.springframework.context.ApplicationContext,java.lang.Class,java.lang.Class)

@@ -1,0 +1,4 @@
+org/apereo/cas/trusted/authentication/storage/JpaMultifactorAuthenticationTrustStorage/get(java.time.LocalDateTime)
+org/apereo/cas/trusted/authentication/storage/JpaMultifactorAuthenticationTrustStorage/expire(java.lang.String)
+org/apereo/cas/trusted/authentication/storage/JpaMultifactorAuthenticationTrustStorage/expire(java.time.LocalDateTime)
+org/apereo/cas/trusted/authentication/storage/JpaMultifactorAuthenticationTrustStorage/get(java.lang.String)

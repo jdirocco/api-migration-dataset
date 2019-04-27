@@ -1,0 +1,3 @@
+org/apereo/cas/interrupt/webflow/InterruptWebflowConfigurer/createInterruptView(org.springframework.webflow.engine.Flow)
+org/apereo/cas/interrupt/webflow/actions/FinalizeInterruptFlowAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/interrupt/webflow/actions/InquireInterruptAction/doExecute(org.springframework.webflow.execution.RequestContext)

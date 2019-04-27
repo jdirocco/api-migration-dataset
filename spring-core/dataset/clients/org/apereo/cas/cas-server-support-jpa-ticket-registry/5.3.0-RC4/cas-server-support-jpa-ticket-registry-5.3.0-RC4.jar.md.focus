@@ -1,0 +1,5 @@
+org/apereo/cas/ticket/registry/support/JpaLockingStrategy/acquire(org.apereo.cas.ticket.registry.support.JpaLockingStrategy$Lock)
+org/apereo/cas/ticket/registry/JpaTicketRegistry/deleteSingleTicket(java.lang.String)
+org/apereo/cas/ticket/registry/support/JpaLockingStrategy/release()
+org/apereo/cas/config/JpaTicketRegistryConfiguration/ticketPackagesToScan()
+org/apereo/cas/config/JpaTicketRegistryConfiguration/lockingStrategy()

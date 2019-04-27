@@ -1,0 +1,2 @@
+org/apereo/cas/audit/config/CasSupportJdbcAuditConfiguration/jdbcAuditTrailManager()
+org/apereo/cas/audit/config/CasSupportJdbcAuditConfiguration/inspektrAuditEntityManagerFactory()

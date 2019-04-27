@@ -1,0 +1,3 @@
+org/apereo/cas/mgmt/config/CasManagementLdapAuthorizationConfiguration/authorizationGenerator()
+org/apereo/cas/mgmt/config/CasManagementLdapAuthorizationConfiguration/ldapAuthorizationGeneratorGroupSearchExecutor()
+org/apereo/cas/mgmt/config/CasManagementLdapAuthorizationConfiguration/ldapAuthorizationGeneratorUserSearchExecutor()

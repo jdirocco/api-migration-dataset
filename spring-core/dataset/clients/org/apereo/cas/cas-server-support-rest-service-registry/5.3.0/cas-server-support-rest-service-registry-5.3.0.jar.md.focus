@@ -1,0 +1,3 @@
+org/apereo/cas/config/RestServiceRegistryConfiguration/restfulServiceRegistry()
+org/apereo/cas/services/RestfulServiceRegistry/load()
+org/apereo/cas/services/RestfulServiceRegistry/findServiceById(long)

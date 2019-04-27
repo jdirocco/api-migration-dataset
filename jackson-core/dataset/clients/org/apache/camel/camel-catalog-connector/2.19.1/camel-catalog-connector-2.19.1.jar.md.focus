@@ -1,0 +1,4 @@
+org/apache/camel/catalog/connector/DefaultCamelConnectorCatalog/addConnector(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+org/apache/camel/catalog/connector/DefaultCamelConnectorCatalog/asEndpointUri(java.lang.String,java.util.Map,boolean)
+org/apache/camel/catalog/connector/MemoryConnectorDataStore/findConnector(java.lang.String,boolean)
+org/apache/camel/catalog/connector/DefaultCamelConnectorCatalog/asEndpointUriXml(java.lang.String,java.util.Map,boolean)

@@ -1,0 +1,3 @@
+org/apereo/cas/logout/DefaultSingleLogoutServiceMessageHandler/handle(org.apereo.cas.authentication.principal.WebApplicationService,java.lang.String)
+org/apereo/cas/logout/DefaultSingleLogoutServiceMessageHandler/performBackChannelLogout(org.apereo.cas.logout.LogoutRequest)
+org/apereo/cas/logout/DefaultLogoutManager/performLogoutForTicket(org.apereo.cas.ticket.TicketGrantingTicket)

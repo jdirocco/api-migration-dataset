@@ -1,0 +1,2 @@
+org/apereo/cas/config/AmazonS3BucketsCloudConfigBootstrapConfiguration/locate(org.springframework.core.env.Environment)
+org/apereo/cas/config/AmazonS3BucketsCloudConfigBootstrapConfiguration/lambda$locate$1(java.lang.String,com.amazonaws.services.s3.AmazonS3,java.util.Map,com.amazonaws.services.s3.model.S3ObjectSummary)

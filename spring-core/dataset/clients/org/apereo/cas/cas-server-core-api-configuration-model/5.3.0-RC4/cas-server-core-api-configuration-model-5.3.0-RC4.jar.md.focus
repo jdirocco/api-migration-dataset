@@ -1,0 +1,8 @@
+org/apereo/cas/configuration/metadata/ConfigurationMetadataGenerator$FieldVisitor/createConfigurationProperty(com.github.javaparser.ast.body.FieldDeclaration,org.springframework.boot.configurationmetadata.ConfigurationMetadataProperty)
+org/apereo/cas/configuration/support/JpaBeans/newHibernateEntityManagerFactoryBean(org.apereo.cas.configuration.model.support.jpa.JpaConfigDataHolder,org.apereo.cas.configuration.model.support.jpa.AbstractJpaProperties)
+org/apereo/cas/configuration/metadata/ConfigurationMetadataGenerator/processHints(java.util.Collection,java.util.Collection)
+org/apereo/cas/configuration/metadata/ConfigurationMetadataGenerator/locatePropertiesClassForType(com.github.javaparser.ast.type.ClassOrInterfaceType)
+org/apereo/cas/configuration/metadata/ConfigurationMetadataGenerator$FieldVisitor/visit(com.github.javaparser.ast.body.FieldDeclaration,org.springframework.boot.configurationmetadata.ConfigurationMetadataProperty)
+org/apereo/cas/configuration/support/JpaBeans/newDataSource(org.apereo.cas.configuration.model.support.jpa.AbstractJpaProperties)
+org/apereo/cas/configuration/metadata/ConfigurationMetadataGenerator/parseCompilationUnit(java.util.Set,java.util.Set,org.springframework.boot.configurationmetadata.ConfigurationMetadataProperty,java.lang.String,java.lang.String,boolean)
+org/apereo/cas/configuration/metadata/ConfigurationMetadataGenerator/execute()

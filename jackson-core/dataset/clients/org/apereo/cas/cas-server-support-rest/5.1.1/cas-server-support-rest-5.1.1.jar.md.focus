@@ -1,0 +1,2 @@
+org/apereo/cas/support/rest/TicketsResource/createTicketGrantingTicket(org.springframework.util.MultiValueMap,javax.servlet.http.HttpServletRequest)
+org/apereo/cas/support/rest/TicketsResource/createServiceTicket(org.springframework.util.MultiValueMap,java.lang.String)

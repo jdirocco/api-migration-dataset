@@ -1,0 +1,1 @@
+org/apereo/cas/cassandra/DefaultCassandraSessionFactory/initializeCassandraCluster(org.apereo.cas.configuration.model.support.cassandra.authentication.BaseCassandraProperties)

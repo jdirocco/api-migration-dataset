@@ -1,0 +1,2 @@
+com/netflix/genie/common/dto/JobRequest/JobRequest(com.netflix.genie.common.dto.JobRequest$Builder)
+com/netflix/genie/common/dto/Job/Job(com.netflix.genie.common.dto.Job$Builder)

@@ -1,0 +1,2 @@
+com/fasterxml/jackson/datatype/hibernate4/PersistentCollectionSerializer/initializeCollection(org.hibernate.collection.spi.PersistentCollection,org.hibernate.Session)
+com/fasterxml/jackson/datatype/hibernate4/HibernateProxySerializer/findProxied(org.hibernate.proxy.HibernateProxy)

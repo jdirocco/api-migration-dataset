@@ -1,0 +1,3 @@
+org/apereo/cas/web/flow/GrouperMultifactorAuthenticationPolicyEventResolver/resolveInternal(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/grouper/GrouperFacade/getGroupsForSubjectId(java.lang.String)
+org/apereo/cas/grouper/services/GrouperRegisteredServiceAccessStrategy/doPrincipalAttributesAllowServiceAccess(java.lang.String,java.util.Map)

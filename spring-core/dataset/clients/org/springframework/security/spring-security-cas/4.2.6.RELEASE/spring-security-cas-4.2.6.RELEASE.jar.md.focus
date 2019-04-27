@@ -1,0 +1,5 @@
+org/springframework/security/cas/authentication/CasAuthenticationProvider/getServiceUrl(org.springframework.security.core.Authentication)
+org/springframework/security/cas/authentication/EhCacheBasedTicketCache/putTicketInCache(org.springframework.security.cas.authentication.CasAuthenticationToken)
+org/springframework/security/cas/userdetails/GrantedAuthorityFromAssertionAttributesUserDetailsService/loadUserDetails(org.jasig.cas.client.validation.Assertion)
+org/springframework/security/cas/web/CasAuthenticationFilter/successfulAuthentication(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,javax.servlet.FilterChain,org.springframework.security.core.Authentication)
+org/springframework/security/cas/authentication/CasAuthenticationProvider/authenticate(org.springframework.security.core.Authentication)

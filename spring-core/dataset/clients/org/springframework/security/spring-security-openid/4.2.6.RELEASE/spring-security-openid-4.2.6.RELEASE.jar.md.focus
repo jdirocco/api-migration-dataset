@@ -1,0 +1,8 @@
+org/springframework/security/openid/OpenIDAuthenticationFilter/attemptAuthentication(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+org/springframework/security/openid/OpenID4JavaConsumer/beginConsumption(javax.servlet.http.HttpServletRequest,java.lang.String,java.lang.String,java.lang.String)
+org/springframework/security/openid/OpenID4JavaConsumer/endConsumption(javax.servlet.http.HttpServletRequest)
+org/springframework/security/openid/RegexBasedAxFetchListFactory/RegexBasedAxFetchListFactory(java.util.Map)
+org/springframework/security/openid/OpenIDAuthenticationFilter/lookupRealm(java.lang.String)
+org/springframework/security/openid/OpenID4JavaConsumer/fetchAxAttributes(org.openid4java.message.Message,java.util.List)
+org/springframework/security/openid/RegexBasedAxFetchListFactory/createAttributeList(java.lang.String)
+org/springframework/security/openid/OpenIDAuthenticationProvider/authenticate(org.springframework.security.core.Authentication)

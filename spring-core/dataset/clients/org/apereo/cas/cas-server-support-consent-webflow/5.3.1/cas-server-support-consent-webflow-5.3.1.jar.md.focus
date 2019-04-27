@@ -1,0 +1,4 @@
+org/apereo/cas/web/consent/config/CasConsentReviewConfiguration/configureServiceRegistry(org.apereo.cas.services.ServiceRegistryExecutionPlan)
+org/apereo/cas/web/flow/ConfirmConsentAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/web/consent/config/CasConsentReviewWebConfiguration/casConsentPac4jConfig()
+org/apereo/cas/web/flow/AbstractConsentAction/prepareConsentForRequestContext(org.springframework.webflow.execution.RequestContext)

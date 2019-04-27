@@ -1,0 +1,6 @@
+org/apereo/cas/audit/spi/NullableReturnValueAuditResourceResolver/resolveFrom(org.aspectj.lang.JoinPoint,java.lang.Object)
+org/apereo/cas/audit/spi/MessageBundleAwareResourceResolver/resolveMessagesFromBundleOrDefault(java.lang.String%5B%5D,java.lang.Exception)
+org/apereo/cas/audit/spi/ServiceAccessEnforcementAuditResourceResolver/resolveFrom(org.aspectj.lang.JoinPoint,java.lang.Object)
+org/apereo/cas/audit/spi/config/CasCoreAuditConfiguration/casClientInfoLoggingFilter()
+org/apereo/cas/audit/spi/config/CasCoreAuditConfiguration/configureAuditTrailExecutionPlan(org.apereo.cas.audit.AuditTrailExecutionPlan)
+org/apereo/cas/audit/spi/TicketValidationResourceResolver/resolveFrom(org.aspectj.lang.JoinPoint,java.lang.Object)

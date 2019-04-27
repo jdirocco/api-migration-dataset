@@ -1,0 +1,1 @@
+org/apereo/cas/consent/ConsentDecision/buildConsentDecision(org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService,org.apereo.cas.authentication.Authentication)

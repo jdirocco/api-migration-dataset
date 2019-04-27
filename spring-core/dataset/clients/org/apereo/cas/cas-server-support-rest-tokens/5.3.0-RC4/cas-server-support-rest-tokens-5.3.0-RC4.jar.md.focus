@@ -1,0 +1,2 @@
+org/apereo/cas/tokens/JWTServiceTicketResourceEntityResponseFactory/grantServiceTicket(java.lang.String,org.apereo.cas.authentication.principal.Service,org.apereo.cas.authentication.AuthenticationResult)
+org/apereo/cas/tokens/JWTTicketGrantingTicketResourceEntityResponseFactory/build(org.apereo.cas.ticket.TicketGrantingTicket,javax.servlet.http.HttpServletRequest)

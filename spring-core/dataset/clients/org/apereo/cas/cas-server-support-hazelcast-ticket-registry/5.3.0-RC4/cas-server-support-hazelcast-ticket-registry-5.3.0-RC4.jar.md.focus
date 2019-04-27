@@ -1,0 +1,2 @@
+org/apereo/cas/ticket/registry/HazelcastTicketRegistry/addTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/HazelcastTicketRegistry/getTicket(java.lang.String)

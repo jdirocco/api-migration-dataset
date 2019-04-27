@@ -1,0 +1,5 @@
+com/fasterxml/jackson/module/paranamer/shaded/BytecodeReadingParanamer$TypeCollector/correctTypeName(com.fasterxml.jackson.module.paranamer.shaded.BytecodeReadingParanamer$Type%5B%5D,int)
+com/fasterxml/jackson/module/paranamer/shaded/JavadocParanamer/getParameterNames(java.lang.reflect.AccessibleObject,java.lang.String,java.lang.Class%5B%5D,java.lang.String)
+com/fasterxml/jackson/module/paranamer/shaded/JavadocParanamer/JavadocParanamer(java.io.File)
+com/fasterxml/jackson/module/paranamer/shaded/AnnotationParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)
+com/fasterxml/jackson/module/paranamer/shaded/DefaultParanamer/lookupParameterNames(java.lang.reflect.AccessibleObject,boolean)

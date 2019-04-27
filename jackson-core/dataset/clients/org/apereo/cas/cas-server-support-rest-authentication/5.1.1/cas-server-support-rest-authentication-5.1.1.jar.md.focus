@@ -1,0 +1,3 @@
+org/apereo/cas/config/CasRestAuthenticationConfiguration/restAuthenticationTemplate()
+org/apereo/cas/adaptors/rest/RestAuthenticationApi/createHeaders(org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/adaptors/rest/RestAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)

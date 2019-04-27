@@ -1,0 +1,3 @@
+org/apereo/cas/redis/core/RedisObjectFactory/createRedisNodesForProperties(org.apereo.cas.configuration.model.support.redis.BaseRedisProperties)
+org/apereo/cas/redis/core/RedisObjectFactory/jedisPoolConfig(org.apereo.cas.configuration.model.support.redis.BaseRedisProperties)
+org/apereo/cas/redis/core/RedisObjectFactory/newRedisConnectionFactory(org.apereo.cas.configuration.model.support.redis.BaseRedisProperties)

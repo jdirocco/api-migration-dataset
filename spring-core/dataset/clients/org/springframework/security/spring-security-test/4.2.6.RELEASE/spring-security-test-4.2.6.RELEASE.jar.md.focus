@@ -1,0 +1,5 @@
+org/springframework/security/test/web/servlet/setup/SecurityMockMvcConfigurer/beforeMockMvcCreated(org.springframework.test.web.servlet.setup.ConfigurableMockMvcBuilder,org.springframework.web.context.WebApplicationContext)
+org/springframework/security/test/context/support/WithMockUserSecurityContextFactory/createSecurityContext(org.springframework.security.test.context.support.WithMockUser)
+org/springframework/security/test/web/servlet/request/SecurityMockMvcRequestPostProcessors$CsrfRequestPostProcessor/postProcessRequest(org.springframework.mock.web.MockHttpServletRequest)
+org/springframework/security/test/web/servlet/response/SecurityMockMvcResultMatchers$AuthenticatedMatcher/match(org.springframework.test.web.servlet.MvcResult)
+org/springframework/security/test/context/support/WithUserDetailsSecurityContextFactory/createSecurityContext(org.springframework.security.test.context.support.WithUserDetails)

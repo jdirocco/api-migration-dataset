@@ -1,0 +1,8 @@
+org/apache/camel/component/telegram/TelegramProducer/process(org.apache.camel.Exchange)
+org/apache/camel/component/telegram/service/TelegramServiceRestBotAPIAdapter/sendMessage(java.lang.String,org.apache.camel.component.telegram.model.OutgoingVideoMessage)
+org/apache/camel/component/telegram/model/UnixTimestampDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)
+org/apache/camel/component/telegram/TelegramConsumer/poll()
+org/apache/camel/component/telegram/TelegramComponent/createEndpoint(java.lang.String,java.lang.String,java.util.Map)
+org/apache/camel/component/telegram/util/TelegramConverter/toOutgoingMessage(java.lang.String,org.apache.camel.Exchange)
+org/apache/camel/component/telegram/util/TelegramConverter/toOutgoingMessage(byte%5B%5D,org.apache.camel.Exchange)
+org/apache/camel/component/telegram/service/TelegramServiceRestBotAPIAdapter/sendMessage(java.lang.String,org.apache.camel.component.telegram.model.OutgoingAudioMessage)

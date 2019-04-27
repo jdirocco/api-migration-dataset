@@ -1,0 +1,5 @@
+org/apereo/cas/trusted/authentication/storage/MultifactorAuthenticationTrustStorageCleaner/clean()
+org/apereo/cas/trusted/config/MultifactorAuthnTrustConfiguration/mfaTrustEngine()
+org/apereo/cas/trusted/web/flow/MultifactorAuthenticationSetTrustAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/trusted/web/flow/MultifactorAuthenticationVerifyTrustAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/trusted/authentication/storage/InMemoryMultifactorAuthenticationTrustStorage/expire(java.time.LocalDate)

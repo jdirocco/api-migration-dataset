@@ -1,0 +1,3 @@
+org/onosproject/bgp/controller/BgpDpid/BgpDpid(org.onosproject.bgpio.protocol.linkstate.BgpLinkLsNlriVer4,int)
+org/onosproject/bgp/controller/BgpDpid/add(org.onosproject.bgpio.protocol.linkstate.NodeDescriptors)
+org/onosproject/bgp/controller/BgpDpid/BgpDpid(org.onosproject.bgpio.protocol.linkstate.BgpNodeLSNlriVer4)

@@ -1,0 +1,2 @@
+org/apereo/cas/rest/audit/RestResponseEntityAuditResourceResolver/getAuditResourceFromResponseEntity(org.springframework.http.ResponseEntity)
+org/apereo/cas/rest/factory/DefaultTicketGrantingTicketResourceEntityResponseFactory/build(org.apereo.cas.ticket.TicketGrantingTicket,javax.servlet.http.HttpServletRequest)

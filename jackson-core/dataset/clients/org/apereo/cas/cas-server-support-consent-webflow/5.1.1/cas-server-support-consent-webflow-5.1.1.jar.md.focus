@@ -1,0 +1,2 @@
+org/apereo/cas/web/flow/CheckConsentRequiredAction/prepareConsentForRequestContext(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/web/flow/ConsentWebflowConfigurer/createConsentRequiredCheckAction(org.springframework.webflow.engine.Flow)

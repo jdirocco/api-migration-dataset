@@ -1,0 +1,5 @@
+org/springframework/cloud/dataflow/rest/client/DataFlowTemplate/prepareRestTemplate(org.springframework.web.client.RestTemplate)
+org/springframework/cloud/dataflow/rest/client/DataFlowTemplate/DataFlowTemplate(java.net.URI,org.springframework.web.client.RestTemplate)
+org/springframework/cloud/dataflow/rest/client/AggregateCounterTemplate/retrieve(java.lang.String,java.util.Date,java.util.Date,org.springframework.cloud.dataflow.rest.client.AggregateCounterOperations$Resolution)
+org/springframework/cloud/dataflow/rest/client/AppRegistryTemplate/registerAll(java.util.Properties,boolean)
+org/springframework/cloud/dataflow/rest/client/support/JobParameterJacksonDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)

@@ -1,0 +1,5 @@
+org/apereo/cas/monitor/AbstractCacheHealthIndicator/doHealthCheck(org.springframework.boot.actuate.health.Health$Builder)
+org/apereo/cas/monitor/AbstractCacheHealthIndicator/lambda$doHealthCheck$0(org.springframework.boot.actuate.health.Health$Builder,org.apereo.cas.monitor.CacheStatistics)
+org/apereo/cas/monitor/SimpleCacheStatistics/toString(java.lang.StringBuilder)
+org/apereo/cas/monitor/AbstractPoolHealthIndicator/doHealthCheck(org.springframework.boot.actuate.health.Health$Builder)
+org/apereo/cas/monitor/SessionMonitor/doHealthCheck(org.springframework.boot.actuate.health.Health$Builder)

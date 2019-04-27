@@ -1,0 +1,4 @@
+waffle/spring/WindowsAuthenticationToken/WindowsAuthenticationToken(waffle.servlet.WindowsPrincipal,waffle.spring.GrantedAuthorityFactory,org.springframework.security.core.GrantedAuthority)
+waffle/spring/NegotiateSecurityFilter/doFilter(javax.servlet.ServletRequest,javax.servlet.ServletResponse,javax.servlet.FilterChain)
+waffle/spring/DelegatingNegotiateSecurityFilter/setAuthentication(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.security.core.Authentication)
+waffle/spring/WindowsAuthenticationProvider/authenticate(org.springframework.security.core.Authentication)

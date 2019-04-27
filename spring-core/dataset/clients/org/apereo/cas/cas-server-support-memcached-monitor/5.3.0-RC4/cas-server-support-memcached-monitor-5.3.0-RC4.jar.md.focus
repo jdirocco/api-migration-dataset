@@ -1,0 +1,1 @@
+org/apereo/cas/monitor/MemcachedHealthIndicator/doHealthCheck(org.springframework.boot.actuate.health.Health$Builder)

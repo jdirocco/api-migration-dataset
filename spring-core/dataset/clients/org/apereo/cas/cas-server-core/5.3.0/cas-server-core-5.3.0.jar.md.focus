@@ -1,0 +1,7 @@
+org/apereo/cas/AbstractCentralAuthenticationService/evaluateProxiedServiceIfNeeded(org.apereo.cas.authentication.principal.Service,org.apereo.cas.ticket.TicketGrantingTicket,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/DefaultCentralAuthenticationService/destroyTicketGrantingTicket(java.lang.String)
+org/apereo/cas/DefaultCentralAuthenticationService/createTicketGrantingTicket(org.apereo.cas.authentication.AuthenticationResult)
+org/apereo/cas/DefaultCentralAuthenticationService/grantServiceTicket(java.lang.String,org.apereo.cas.authentication.principal.Service,org.apereo.cas.authentication.AuthenticationResult)
+org/apereo/cas/DefaultCentralAuthenticationService/createProxyGrantingTicket(java.lang.String,org.apereo.cas.authentication.AuthenticationResult)
+org/apereo/cas/DefaultCentralAuthenticationService/grantProxyTicket(java.lang.String,org.apereo.cas.authentication.principal.Service)
+org/apereo/cas/DefaultCentralAuthenticationService/validateServiceTicket(java.lang.String,org.apereo.cas.authentication.principal.Service)

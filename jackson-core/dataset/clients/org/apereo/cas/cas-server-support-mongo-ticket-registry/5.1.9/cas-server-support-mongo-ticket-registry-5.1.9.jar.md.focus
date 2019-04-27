@@ -1,0 +1,2 @@
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/updateTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/MongoDbTicketRegistry/initialize()

@@ -1,0 +1,6 @@
+org/openl/rules/security/standalone/DBMigrationBean/fillQueries(java.util.Map,java.lang.String)
+org/openl/rules/security/standalone/service/PrivilegesEvaluator/createPrivileges(org.openl.rules.security.standalone.persistence.Group,java.util.Set)
+org/openl/rules/security/standalone/DBMigrationBean/init()
+org/openl/rules/security/standalone/DBMigrationBean/migrateOldFlywayData()
+org/openl/rules/security/standalone/service/PrivilegesEvaluator/createPrivileges(org.openl.rules.security.standalone.persistence.User)
+org/openl/rules/security/standalone/service/UserInfoUserDetailsServiceImpl/loadUserByUsername(java.lang.String)

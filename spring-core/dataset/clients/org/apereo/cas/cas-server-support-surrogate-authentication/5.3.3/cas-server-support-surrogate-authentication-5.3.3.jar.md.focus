@@ -1,0 +1,8 @@
+org/apereo/cas/authentication/SurrogatePrincipalResolver/extractPrincipalId(org.apereo.cas.authentication.Credential,java.util.Optional)
+org/apereo/cas/authentication/event/SurrogateAuthenticationEventListener/notify(org.apereo.cas.authentication.principal.Principal,org.apereo.cas.support.events.AbstractCasEvent)
+org/apereo/cas/authentication/SurrogateAuthenticationPostProcessor/process(org.apereo.cas.authentication.AuthenticationBuilder,org.apereo.cas.authentication.AuthenticationTransaction)
+org/apereo/cas/config/SurrogateAuthenticationConfiguration/surrogateAuthenticationService()
+org/apereo/cas/authentication/audit/SurrogateEligibilityVerificationAuditResourceResolver/resolveFrom(org.aspectj.lang.JoinPoint,java.lang.Object)
+org/apereo/cas/authentication/SurrogateAuthenticationMetaDataPopulator/populateAttributes(org.apereo.cas.authentication.AuthenticationBuilder,org.apereo.cas.authentication.AuthenticationTransaction)
+org/apereo/cas/authentication/SurrogatePrincipalElectionStrategy/getPrincipalFromAuthentication(java.util.Collection)
+org/apereo/cas/authentication/SurrogatePrincipalBuilder/buildSurrogateAuthenticationResult(org.apereo.cas.authentication.AuthenticationResultBuilder,org.apereo.cas.authentication.Credential,java.lang.String)

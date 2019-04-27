@@ -1,0 +1,2 @@
+org/apereo/cas/authentication/MongoAuthenticationHandler/getAuthenticator(org.apereo.cas.authentication.Credential)
+org/apereo/cas/authentication/config/CasMongoAuthenticationConfiguration/mongoAuthenticationHandler()

@@ -1,0 +1,2 @@
+io/syndesis/integration/model/SyndesisHelpers/tryFindConfigOnClassPath()
+io/syndesis/integration/model/SyndesisHelpers/createObjectMapper()

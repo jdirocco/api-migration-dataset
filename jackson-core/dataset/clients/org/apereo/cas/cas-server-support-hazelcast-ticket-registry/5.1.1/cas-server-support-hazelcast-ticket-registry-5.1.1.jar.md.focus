@@ -1,0 +1,3 @@
+org/apereo/cas/config/HazelcastTicketRegistryConfiguration/getConfig(org.apereo.cas.ticket.TicketCatalog)
+org/apereo/cas/config/HazelcastTicketRegistryConfiguration/createMapConfig(org.apereo.cas.ticket.TicketDefinition)
+org/apereo/cas/ticket/registry/HazelcastTicketRegistry/addTicket(org.apereo.cas.ticket.Ticket)

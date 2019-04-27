@@ -1,0 +1,3 @@
+com/fasterxml/jackson/jaxrs/base/ProviderBase/writeTo(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation%5B%5D,javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)
+com/fasterxml/jackson/jaxrs/base/ProviderBase/readFrom(java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation%5B%5D,javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.InputStream)
+com/fasterxml/jackson/jaxrs/cfg/EndpointConfigBase/addAnnotation(java.lang.Class,java.lang.annotation.Annotation,boolean)

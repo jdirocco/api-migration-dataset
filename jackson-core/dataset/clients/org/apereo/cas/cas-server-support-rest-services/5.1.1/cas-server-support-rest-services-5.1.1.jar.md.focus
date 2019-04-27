@@ -1,0 +1,2 @@
+org/apereo/cas/support/rest/RegisteredServiceResource$ServiceDataHolder/getRegisteredService()
+org/apereo/cas/support/rest/RegisteredServiceResource/createService(org.apereo.cas.support.rest.RegisteredServiceResource$ServiceDataHolder,java.lang.String)

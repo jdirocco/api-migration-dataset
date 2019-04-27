@@ -1,0 +1,1 @@
+org/apereo/cas/cosmosdb/CosmosDbObjectFactory/createDocumentClient(org.apereo.cas.configuration.model.support.cosmosdb.BaseCosmosDbProperties)

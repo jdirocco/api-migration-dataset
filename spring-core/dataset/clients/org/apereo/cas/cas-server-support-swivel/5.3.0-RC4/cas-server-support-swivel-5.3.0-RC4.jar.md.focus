@@ -1,0 +1,3 @@
+org/apereo/cas/config/SwivelAuthenticationEventExecutionPlanConfiguration/swivelAuthenticationProvider()
+org/apereo/cas/adaptors/swivel/web/flow/rest/SwivelTuringImageGeneratorController/generateImage(java.io.OutputStream,java.lang.String)
+org/apereo/cas/adaptors/swivel/SwivelAuthenticationHandler/sendAuthenticationRequestToSwivel(org.apereo.cas.adaptors.swivel.SwivelTokenCredential,java.lang.String)

@@ -1,0 +1,2 @@
+com/github/timpeeters/boot/logger/ContextualLoggingContext/shouldLog(ch.qos.logback.classic.Logger,ch.qos.logback.classic.Level)
+com/github/timpeeters/boot/logger/ContextualLoggingProperties/toString()

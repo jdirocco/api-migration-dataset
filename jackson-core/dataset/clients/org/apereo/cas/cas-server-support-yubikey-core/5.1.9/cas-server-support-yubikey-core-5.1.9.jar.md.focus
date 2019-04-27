@@ -1,0 +1,2 @@
+org/apereo/cas/adaptors/yubikey/YubiKeyMultifactorAuthenticationProvider/isAvailable()
+org/apereo/cas/adaptors/yubikey/YubiKeyAuthenticationHandler/doAuthentication(org.apereo.cas.authentication.Credential)

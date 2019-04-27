@@ -1,0 +1,5 @@
+org/apache/camel/jsonpath/JsonPathEngine/doRead(com.jayway.jsonpath.JsonPath,org.apache.camel.Exchange)
+org/apache/camel/jsonpath/JsonPathEngine/readWithAdapter(com.jayway.jsonpath.JsonPath,org.apache.camel.Exchange)
+org/apache/camel/jsonpath/JsonPathEngine/readWithInputStream(com.jayway.jsonpath.JsonPath,org.apache.camel.Exchange)
+org/apache/camel/jsonpath/easypredicate/EasyPredicateParser/tokens(java.lang.String)
+org/apache/camel/jsonpath/JsonPathEngine/JsonPathEngine(java.lang.String,boolean,boolean,com.jayway.jsonpath.Option%5B%5D)

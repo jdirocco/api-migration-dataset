@@ -1,0 +1,6 @@
+org/springframework/security/messaging/context/AuthenticationPrincipalArgumentResolver/resolveArgument(org.springframework.core.MethodParameter,org.springframework.messaging.Message)
+org/springframework/security/messaging/web/csrf/CsrfChannelInterceptor/preSend(org.springframework.messaging.Message,org.springframework.messaging.MessageChannel)
+org/springframework/security/messaging/util/matcher/OrMessageMatcher/matches(org.springframework.messaging.Message)
+org/springframework/security/messaging/context/SecurityContextChannelInterceptor/setup(org.springframework.messaging.Message)
+org/springframework/security/messaging/util/matcher/AndMessageMatcher/matches(org.springframework.messaging.Message)
+org/springframework/security/messaging/access/expression/ExpressionBasedMessageSecurityMetadataSourceFactory/createExpressionMessageMetadataSource(java.util.LinkedHashMap,org.springframework.security.access.expression.SecurityExpressionHandler)

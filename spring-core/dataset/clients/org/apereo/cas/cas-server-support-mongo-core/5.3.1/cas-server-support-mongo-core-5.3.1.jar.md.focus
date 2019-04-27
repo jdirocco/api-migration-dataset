@@ -1,0 +1,4 @@
+org/apereo/cas/mongo/MongoDbConnectionFactory/scanForEntities(java.lang.String)
+org/apereo/cas/mongo/MongoDbConnectionFactory/mongoDbFactory(com.mongodb.Mongo,org.apereo.cas.configuration.model.support.mongo.BaseMongoDbProperties)
+org/apereo/cas/mongo/MongoDbConnectionFactory/buildMongoDbClient(org.apereo.cas.configuration.model.support.mongo.BaseMongoDbProperties)
+org/apereo/cas/mongo/MongoDbConnectionFactory/buildMongoDbClientOptionsFactoryBean(org.apereo.cas.configuration.model.support.mongo.BaseMongoDbProperties)

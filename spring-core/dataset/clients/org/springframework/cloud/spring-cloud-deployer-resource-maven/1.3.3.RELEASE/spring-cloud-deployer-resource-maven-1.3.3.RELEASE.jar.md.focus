@@ -1,0 +1,4 @@
+org/springframework/cloud/deployer/resource/maven/MavenResource/parse(java.lang.String,org.springframework.cloud.deployer.resource.maven.MavenProperties)
+org/springframework/cloud/deployer/resource/maven/MavenArtifactResolver/MavenArtifactResolver(org.springframework.cloud.deployer.resource.maven.MavenProperties)
+org/springframework/cloud/deployer/resource/maven/MavenArtifactResolver/newRepositorySystemSession(org.eclipse.aether.RepositorySystem,java.lang.String)
+org/springframework/cloud/deployer/resource/maven/MavenArtifactResolver/resolve(org.springframework.cloud.deployer.resource.maven.MavenResource)

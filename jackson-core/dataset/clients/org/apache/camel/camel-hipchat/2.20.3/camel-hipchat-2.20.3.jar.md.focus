@@ -1,0 +1,5 @@
+org/apache/camel/component/hipchat/HipchatConsumer/processApiResponse(org.apache.camel.Exchange,org.apache.http.client.methods.CloseableHttpResponse)
+org/apache/camel/component/hipchat/HipchatProducer/sendRoomMessage(java.lang.String,org.apache.camel.Exchange)
+org/apache/camel/component/hipchat/HipchatProducer/post(java.lang.String,java.util.Map)
+org/apache/camel/component/hipchat/HipchatComponent/parseUri(java.lang.String,org.apache.camel.component.hipchat.HipchatEndpoint)
+org/apache/camel/component/hipchat/HipchatConsumer/processExchangeForUser(java.lang.String,org.apache.camel.Exchange)

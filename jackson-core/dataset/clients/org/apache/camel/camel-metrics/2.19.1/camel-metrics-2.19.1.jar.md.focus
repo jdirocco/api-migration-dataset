@@ -1,0 +1,6 @@
+org/apache/camel/component/metrics/routepolicy/MetricsRegistryService/doStart()
+org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicyFactory/createRoutePolicy(org.apache.camel.CamelContext,java.lang.String,org.apache.camel.model.RouteDefinition)
+org/apache/camel/component/metrics/messagehistory/MetricsMessageHistoryFactory/doStart()
+org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicy/onInit(org.apache.camel.Route)
+org/apache/camel/component/metrics/messagehistory/MetricsMessageHistoryService/doStart()
+org/apache/camel/component/metrics/CounterProducer/doProcess(org.apache.camel.Exchange,org.apache.camel.component.metrics.MetricsEndpoint,com.codahale.metrics.MetricRegistry,java.lang.String)

@@ -1,0 +1,3 @@
+org/apereo/cas/config/DynamoDbCloudConfigBootstrapConfiguration/createSettingsTable(com.amazonaws.services.dynamodbv2.AmazonDynamoDB,boolean)
+org/apereo/cas/config/DynamoDbCloudConfigBootstrapConfiguration/createCreateTableRequest()
+org/apereo/cas/config/DynamoDbCloudConfigBootstrapConfiguration/locate(org.springframework.core.env.Environment)

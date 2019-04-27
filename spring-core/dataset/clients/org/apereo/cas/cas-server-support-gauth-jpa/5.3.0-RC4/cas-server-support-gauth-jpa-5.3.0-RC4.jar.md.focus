@@ -1,0 +1,3 @@
+org/apereo/cas/adaptors/gauth/GoogleAuthenticatorJpaTokenRepository/cleanInternal()
+org/apereo/cas/adaptors/gauth/JpaGoogleAuthenticatorTokenCredentialRepository/get(java.lang.String)
+org/apereo/cas/adaptors/gauth/JpaGoogleAuthenticatorTokenCredentialRepository/update(org.apereo.cas.authentication.OneTimeTokenAccount)

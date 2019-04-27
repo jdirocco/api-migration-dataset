@@ -1,0 +1,3 @@
+org/apereo/cas/adaptors/gauth/repository/credentials/RestGoogleAuthenticatorTokenCredentialRepository/update(org.apereo.cas.authentication.OneTimeTokenAccount)
+org/apereo/cas/adaptors/gauth/repository/credentials/RestGoogleAuthenticatorTokenCredentialRepository/get(java.lang.String)
+org/apereo/cas/adaptors/gauth/GoogleAuthenticatorAuthenticationHandler/doAuthentication(org.apereo.cas.authentication.Credential)

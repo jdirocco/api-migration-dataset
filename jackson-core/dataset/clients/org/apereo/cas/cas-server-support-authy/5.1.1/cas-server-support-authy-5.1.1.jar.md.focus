@@ -1,0 +1,6 @@
+org/apereo/cas/adaptors/authy/web/flow/AuthyAuthenticationRegistrationWebflowAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/adaptors/authy/AuthyClientInstance/getOrCreateUser(org.apereo.cas.authentication.principal.Principal)
+org/apereo/cas/adaptors/authy/config/support/authentication/AuthyAuthenticationEventExecutionPlanConfiguration/authyAuthenticatorAuthenticationProvider()
+org/apereo/cas/adaptors/authy/config/support/authentication/AuthyAuthenticationEventExecutionPlanConfiguration/authyClientInstance()
+org/apereo/cas/adaptors/authy/AuthyClientInstance/AuthyClientInstance(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+org/apereo/cas/adaptors/authy/AuthyAuthenticationHandler/doAuthentication(org.apereo.cas.authentication.Credential)

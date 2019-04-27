@@ -1,0 +1,8 @@
+org/apache/cxf/transport/http/netty/client/NettyHttpClientRequest/createRequest(io.netty.buffer.ByteBuf)
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit/createOutputStream(org.apache.cxf.message.Message,boolean,boolean,int)
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit$NettyWrappedOutputStream/setupNewConnection(java.lang.String)
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit$NettyWrappedOutputStream/connect(boolean)
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit$NettyWrappedOutputStream/getHttpsURLConnectionInfo()
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit$NettyWrappedOutputStream/readHeaders(org.apache.cxf.transport.http.Headers)
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit/setupConnection(org.apache.cxf.message.Message,org.apache.cxf.transport.http.Address,org.apache.cxf.transports.http.configuration.HTTPClientPolicy)
+org/apache/cxf/transport/http/netty/client/NettyHttpConduit$NettyWrappedOutputStream/setProtocolHeaders()

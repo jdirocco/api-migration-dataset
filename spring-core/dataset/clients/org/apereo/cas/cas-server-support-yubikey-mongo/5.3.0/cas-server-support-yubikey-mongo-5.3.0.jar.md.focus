@@ -1,0 +1,3 @@
+org/apereo/cas/config/MongoDbYubiKeyConfiguration/mongoYubiKeyTemplate()
+org/apereo/cas/adaptors/yubikey/dao/MongoDbYubiKeyAccountRegistry/registerAccountFor(java.lang.String,java.lang.String)
+org/apereo/cas/adaptors/yubikey/dao/MongoDbYubiKeyAccountRegistry/getAccount(java.lang.String)

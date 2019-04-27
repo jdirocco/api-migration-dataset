@@ -1,0 +1,6 @@
+org/apereo/cas/ticket/registry/DynamoDbTicketRegistryFacilitator/buildTableAttributeValuesMapFromTicket(org.apereo.cas.ticket.Ticket,org.apereo.cas.ticket.Ticket)
+org/apereo/cas/config/DynamoDbTicketRegistryConfiguration/amazonDynamoDbClient()
+org/apereo/cas/ticket/registry/DynamoDbTicketRegistryFacilitator/lambda$getAll$1(java.util.Collection,org.apereo.cas.ticket.TicketDefinition)
+org/apereo/cas/ticket/registry/DynamoDbTicketRegistryFacilitator/lambda$createTicketTables$2(boolean,org.apereo.cas.ticket.TicketDefinition)
+org/apereo/cas/ticket/registry/DynamoDbTicketRegistryFacilitator/delete(java.lang.String)
+org/apereo/cas/ticket/registry/DynamoDbTicketRegistryFacilitator/get(java.lang.String)

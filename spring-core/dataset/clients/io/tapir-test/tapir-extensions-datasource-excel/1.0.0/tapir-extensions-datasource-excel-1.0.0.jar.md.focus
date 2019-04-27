@@ -1,0 +1,3 @@
+io/tapirtest/datasource/excel/annotation/ExcelDataSourceProcessor$1/appendTo(org.eclipse.xtend2.lib.StringConcatenationClient$TargetStringConcatenation)
+io/tapirtest/datasource/excel/annotation/ExcelDataSourceProcessor/doValidate(org.eclipse.xtend.lib.macro.declaration.ClassDeclaration,org.eclipse.xtend.lib.macro.ValidationContext)
+io/tapirtest/datasource/excel/AbstractExcelDataSource/getIterator(org.springframework.core.io.Resource)

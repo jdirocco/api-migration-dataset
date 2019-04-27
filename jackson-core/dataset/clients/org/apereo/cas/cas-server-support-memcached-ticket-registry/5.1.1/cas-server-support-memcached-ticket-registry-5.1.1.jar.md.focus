@@ -1,0 +1,7 @@
+org/apereo/cas/ticket/registry/support/kryo/serial/RegisteredServiceSerializer/write(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Output,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/ticket/registry/MemCacheTicketRegistry/addTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/MemCacheTicketRegistry/updateTicket(org.apereo.cas.ticket.Ticket)
+org/apereo/cas/ticket/registry/support/kryo/KryoTranscoder/initialize()
+org/apereo/cas/ticket/registry/support/kryo/serial/RegisteredServiceSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)
+org/apereo/cas/ticket/registry/support/kryo/FieldHelper/getField(java.lang.Object,java.lang.String)
+org/apereo/cas/config/MemcachedTicketRegistryConfiguration/memcachedClient()

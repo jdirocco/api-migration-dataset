@@ -1,0 +1,2 @@
+org/apereo/cas/config/GoogleAuthenticatorMongoDbConfiguration/mongoDbGoogleAuthenticatorFactory()
+org/apereo/cas/adaptors/gauth/MongoDbGoogleAuthenticatorTokenRepository/cleanInternal()

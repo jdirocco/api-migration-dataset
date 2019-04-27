@@ -1,0 +1,2 @@
+org/apereo/cas/integration/pac4j/authentication/handler/support/AbstractPac4jAuthenticationHandler/createResult(org.apereo.cas.authentication.principal.ClientCredential,org.pac4j.core.profile.UserProfile)
+org/apereo/cas/integration/pac4j/authentication/handler/support/AbstractWrapperAuthenticationHandler/doAuthentication(org.apereo.cas.authentication.Credential)

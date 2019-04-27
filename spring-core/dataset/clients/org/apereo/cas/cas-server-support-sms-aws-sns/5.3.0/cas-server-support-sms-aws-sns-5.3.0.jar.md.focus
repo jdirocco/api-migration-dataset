@@ -1,0 +1,2 @@
+org/apereo/cas/support/sms/AmazonSimpleNotificationServiceSmsSender/send(java.lang.String,java.lang.String,java.lang.String)
+org/apereo/cas/config/AmazonSimpleNotificationServiceSmsConfiguration/smsSender()

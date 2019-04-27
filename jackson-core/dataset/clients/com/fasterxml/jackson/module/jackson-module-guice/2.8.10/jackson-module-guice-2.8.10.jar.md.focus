@@ -1,0 +1,2 @@
+com/fasterxml/jackson/module/guice/GuiceAnnotationIntrospector/findInjectableValueId(com.fasterxml.jackson.databind.introspect.AnnotatedMember)
+com/fasterxml/jackson/module/guice/ObjectMapperModule$ObjectMapperProvider/get()

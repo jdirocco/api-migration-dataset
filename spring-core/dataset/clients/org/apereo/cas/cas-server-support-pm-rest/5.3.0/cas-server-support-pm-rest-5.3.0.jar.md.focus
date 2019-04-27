@@ -1,0 +1,3 @@
+org/apereo/cas/pm/rest/RestPasswordManagementService/findEmail(java.lang.String)
+org/apereo/cas/pm/rest/RestPasswordManagementService/getSecurityQuestions(java.lang.String)
+org/apereo/cas/pm/rest/RestPasswordManagementService/changeInternal(org.apereo.cas.authentication.Credential,org.apereo.cas.pm.PasswordChangeBean)

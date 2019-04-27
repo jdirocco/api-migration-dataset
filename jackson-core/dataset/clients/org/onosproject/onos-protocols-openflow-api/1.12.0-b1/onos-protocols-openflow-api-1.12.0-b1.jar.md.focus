@@ -1,0 +1,2 @@
+org/onosproject/openflow/controller/DefaultOpenFlowPacketContext/build(org.projectfloodlight.openflow.types.OFPort)
+org/onosproject/openflow/controller/DefaultOpenFlowPacketContext/build(org.onlab.packet.Ethernet,org.projectfloodlight.openflow.types.OFPort)

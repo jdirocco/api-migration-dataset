@@ -1,0 +1,7 @@
+org/craftercms/search/batch/impl/BinaryFileWithMetadataBatchIndexer/extractMetadata(java.lang.String,org.dom4j.Document)
+org/craftercms/search/batch/impl/BinaryFileWithMetadataBatchIndexer/searchMetadataPathFromBinaryPath(org.craftercms.search.service.SearchService,java.lang.String,java.lang.String,java.lang.String)
+org/craftercms/search/batch/impl/BinaryFileWithMetadataBatchIndexer/extractMetadataFromChildren(org.dom4j.Element,java.lang.String,org.springframework.util.MultiValueMap)
+org/craftercms/search/batch/impl/BinaryFileWithMetadataBatchIndexer/doUpdates(java.lang.String,java.lang.String,org.craftercms.search.service.SearchService,org.craftercms.core.service.ContentStoreService,org.craftercms.core.service.Context,java.util.List,org.craftercms.search.batch.UpdateStatus)
+org/craftercms/search/batch/impl/BinaryFileWithMetadataBatchIndexer/searchBinaryPathsFromMetadataPath(org.craftercms.search.service.SearchService,java.lang.String,java.lang.String,java.lang.String)
+org/craftercms/search/batch/impl/BinaryFileWithMetadataBatchIndexer/getBinaryFilePaths(org.dom4j.Document)
+org/craftercms/search/batch/impl/AbstractBatchIndexer/updateIndex(org.craftercms.search.service.SearchService,java.lang.String,java.lang.String,org.craftercms.core.service.ContentStoreService,org.craftercms.core.service.Context,org.craftercms.search.batch.UpdateSet,org.craftercms.search.batch.UpdateStatus)

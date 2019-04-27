@@ -1,0 +1,4 @@
+org/springframework/cloud/netflix/hystrix/stream/HystrixStreamTask/addServiceData(com.fasterxml.jackson.core.JsonGenerator,org.springframework.cloud.client.ServiceInstance)
+org/springframework/cloud/netflix/hystrix/stream/HystrixStreamTask/gatherMetrics()
+org/springframework/cloud/netflix/hystrix/stream/HystrixStreamAutoConfiguration/init()
+org/springframework/cloud/netflix/hystrix/stream/HystrixStreamTask/sendMetrics()

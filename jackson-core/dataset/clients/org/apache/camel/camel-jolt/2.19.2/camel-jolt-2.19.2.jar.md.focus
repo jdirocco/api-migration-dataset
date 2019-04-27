@@ -1,0 +1,2 @@
+org/apache/camel/component/jolt/JoltEndpoint/getTransform()
+org/apache/camel/component/jolt/JoltEndpoint/onExchange(org.apache.camel.Exchange)

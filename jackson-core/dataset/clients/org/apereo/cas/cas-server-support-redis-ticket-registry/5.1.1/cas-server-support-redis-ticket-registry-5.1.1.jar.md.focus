@@ -1,0 +1,2 @@
+org/apereo/cas/config/RedisTicketRegistryConfiguration/jedisPoolConfig()
+org/apereo/cas/config/RedisTicketRegistryConfiguration/redisConnectionFactory()

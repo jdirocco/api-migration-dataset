@@ -1,0 +1,5 @@
+org/apereo/cas/token/authentication/TokenAuthenticationHandler/getAuthenticator(org.apereo.cas.authentication.Credential)
+org/apereo/cas/token/authentication/TokenAuthenticationHandler/getRegisteredServiceJwtSecret(org.apereo.cas.services.RegisteredService,java.lang.String)
+org/apereo/cas/token/webflow/TokenAuthenticationAction/constructCredentialsFromRequest(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/token/authentication/principal/TokenWebApplicationServiceResponseBuilder/generateToken(org.apereo.cas.authentication.principal.Service,java.util.Map)
+org/apereo/cas/token/authentication/principal/TokenWebApplicationServiceResponseBuilder/buildInternal(org.apereo.cas.authentication.principal.WebApplicationService,java.util.Map)

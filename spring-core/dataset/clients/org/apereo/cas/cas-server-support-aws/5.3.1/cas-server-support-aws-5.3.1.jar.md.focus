@@ -1,0 +1,3 @@
+org/apereo/cas/aws/ChainingAWSCredentialsProvider/getInstance(java.lang.String,java.lang.String,org.springframework.core.io.Resource,java.lang.String,java.lang.String)
+org/apereo/cas/aws/ChainingAWSCredentialsProvider/getCredentials()
+org/apereo/cas/aws/AmazonEnvironmentAwareClientBuilder/build(com.amazonaws.client.builder.AwsClientBuilder,java.lang.Class)

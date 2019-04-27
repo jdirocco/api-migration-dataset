@@ -1,0 +1,2 @@
+org/apereo/cas/consent/JpaConsentRepository/findConsentDecision(org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService,org.apereo.cas.authentication.Authentication)
+org/apereo/cas/consent/JpaConsentRepository/findConsentDecisions(java.lang.String)

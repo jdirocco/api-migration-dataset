@@ -1,0 +1,2 @@
+org/apereo/cas/audit/spi/config/CasCoreAuditConfiguration/casClientInfoLoggingFilter()
+org/apereo/cas/audit/spi/config/CasCoreAuditConfiguration/configureAuditTrailExecutionPlan(org.apereo.cas.audit.AuditTrailExecutionPlan)

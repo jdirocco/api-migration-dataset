@@ -1,0 +1,5 @@
+org/apereo/cas/audit/DelegatedAuthenticationAuditResourceResolver/resolveFrom(org.aspectj.lang.JoinPoint,java.lang.Object)
+org/apereo/cas/validation/RegisteredServiceDelegatedAuthenticationPolicyAuditableEnforcer/execute(org.apereo.cas.audit.AuditableContext)
+org/apereo/cas/web/pac4j/CasSecurityInterceptor/postHandle(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.Object,org.springframework.web.servlet.ModelAndView)
+org/apereo/cas/validation/DelegatedAuthenticationServiceTicketValidationAuthorizer/authorize(javax.servlet.http.HttpServletRequest,org.apereo.cas.authentication.principal.Service,org.apereo.cas.validation.Assertion)
+org/apereo/cas/web/pac4j/DelegatedSessionCookieManager/store(org.pac4j.core.context.J2EContext)

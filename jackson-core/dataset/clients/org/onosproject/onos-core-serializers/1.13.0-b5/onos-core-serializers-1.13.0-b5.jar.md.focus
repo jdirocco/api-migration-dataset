@@ -1,0 +1,6 @@
+java+initializer:///org/onosproject/store/serializers/KryoNamespaces/KryoNamespaces$initializer
+org/onosproject/store/serializers/ImmutableMapSerializer/write(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Output,com.google.common.collect.ImmutableMap)
+org/onosproject/store/serializers/ExtensionCriterionSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)
+org/onosproject/store/serializers/DefaultPortSerializer/write(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Output,org.onosproject.net.DefaultPort)
+org/onosproject/store/serializers/DefaultLinkSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)
+org/onosproject/store/serializers/ExtensionInstructionSerializer/read(com.esotericsoftware.kryo.Kryo,com.esotericsoftware.kryo.io.Input,java.lang.Class)

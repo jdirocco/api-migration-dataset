@@ -1,0 +1,4 @@
+org/apereo/cas/web/flow/action/SurrogateAuthorizationAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/web/flow/action/SurrogateSelectionAction/doExecute(org.springframework.webflow.execution.RequestContext)
+org/apereo/cas/web/flow/action/SurrogateInitialAuthenticationAction/convertToSurrogateCredential(org.springframework.webflow.execution.RequestContext,org.apereo.cas.authentication.UsernamePasswordCredential)
+org/apereo/cas/web/flow/action/LoadSurrogatesListAction/doExecute(org.springframework.webflow.execution.RequestContext)

@@ -1,0 +1,5 @@
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/getTicket(java.lang.String)
+org/apereo/cas/config/CouchbaseTicketRegistryConfiguration/ticketRegistryCouchbaseClientFactory()
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/lambda$getTickets$0(java.util.List,org.apereo.cas.ticket.TicketDefinition)
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/getViewResultIteratorForPrefixedTickets(java.lang.String)
+org/apereo/cas/ticket/registry/CouchbaseTicketRegistry/addTicket(org.apereo.cas.ticket.Ticket)

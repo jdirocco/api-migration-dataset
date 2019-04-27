@@ -1,0 +1,4 @@
+org/apereo/cas/config/CouchbaseServiceRegistryConfiguration/serviceRegistryCouchbaseClientFactory()
+org/apereo/cas/services/CouchbaseServiceRegistry/save(org.apereo.cas.services.RegisteredService)
+org/apereo/cas/services/CouchbaseServiceRegistry/load()
+org/apereo/cas/services/CouchbaseServiceRegistry/findServiceById(long)

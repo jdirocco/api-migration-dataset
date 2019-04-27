@@ -1,0 +1,1 @@
+org/apereo/cas/oidc/claims/BaseOidcScopeAttributeReleasePolicy/getAttributesInternal(org.apereo.cas.authentication.principal.Principal,java.util.Map,org.apereo.cas.services.RegisteredService)

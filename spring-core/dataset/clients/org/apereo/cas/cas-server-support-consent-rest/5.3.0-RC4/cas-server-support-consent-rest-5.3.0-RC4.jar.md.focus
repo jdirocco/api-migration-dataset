@@ -1,0 +1,5 @@
+org/apereo/cas/consent/RestConsentRepository/findConsentDecision(org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService,org.apereo.cas.authentication.Authentication)
+org/apereo/cas/consent/RestConsentRepository/deleteConsentDecision(long,java.lang.String)
+org/apereo/cas/consent/RestConsentRepository/storeConsentDecision(org.apereo.cas.consent.ConsentDecision)
+org/apereo/cas/consent/RestConsentRepository/findConsentDecisions()
+org/apereo/cas/consent/RestConsentRepository/findConsentDecisions(java.lang.String)

@@ -1,0 +1,6 @@
+org/apereo/cas/consent/BaseConsentRepository/storeConsentDecision(org.apereo.cas.consent.ConsentDecision)
+org/apereo/cas/consent/JsonConsentRepository/readDecisionsFromJsonResource()
+org/apereo/cas/consent/DefaultConsentEngine/storeConsentDecision(org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService,org.apereo.cas.authentication.Authentication,long,java.time.temporal.ChronoUnit,org.apereo.cas.consent.ConsentReminderOptions)
+org/apereo/cas/consent/DefaultConsentEngine/isConsentRequiredFor(org.apereo.cas.authentication.principal.Service,org.apereo.cas.services.RegisteredService,org.apereo.cas.authentication.Authentication)
+org/apereo/cas/consent/DefaultConsentDecisionBuilder/getConsentableAttributesFrom(org.apereo.cas.consent.ConsentDecision)
+org/apereo/cas/config/CasConsentCoreConfiguration/consentCipherExecutor()

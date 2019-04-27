@@ -1,0 +1,8 @@
+com/fasterxml/jackson/dataformat/csv/CsvSchema/toString()
+com/fasterxml/jackson/dataformat/csv/CsvParser/_handleExtraColumn(java.lang.String)
+com/fasterxml/jackson/dataformat/csv/impl/CsvParserBootstrapper/_createReader(com.fasterxml.jackson.core.JsonEncoding)
+com/fasterxml/jackson/dataformat/csv/CsvMapper/_addSchemaProperties(com.fasterxml.jackson.dataformat.csv.CsvSchema$Builder,com.fasterxml.jackson.databind.AnnotationIntrospector,boolean,com.fasterxml.jackson.databind.JavaType,com.fasterxml.jackson.databind.util.NameTransformer)
+com/fasterxml/jackson/dataformat/csv/CsvGenerator/writeEndArray()
+com/fasterxml/jackson/dataformat/csv/CsvParser/_readHeaderLine()
+com/fasterxml/jackson/dataformat/csv/CsvGenerator/writeStartArray()
+com/fasterxml/jackson/dataformat/csv/impl/CsvEncoder/CsvEncoder(com.fasterxml.jackson.core.io.IOContext,int,java.io.Writer,com.fasterxml.jackson.dataformat.csv.CsvSchema)

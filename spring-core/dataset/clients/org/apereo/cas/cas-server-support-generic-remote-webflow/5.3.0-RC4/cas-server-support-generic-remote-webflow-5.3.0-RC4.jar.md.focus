@@ -1,0 +1,3 @@
+org/apereo/cas/web/flow/RemoteAddressWebflowConfigurer/doInitialize()
+org/apereo/cas/adaptors/generic/remote/RemoteAddressAuthenticationHandler/configureIpNetworkRange(java.lang.String)
+org/apereo/cas/adaptors/generic/remote/RemoteAddressAuthenticationHandler/authenticate(org.apereo.cas.authentication.Credential)

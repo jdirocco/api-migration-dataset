@@ -1,0 +1,3 @@
+org/apereo/cas/adaptors/ldap/services/DefaultLdapRegisteredServiceMapper/mapFromRegisteredService(java.lang.String,org.apereo.cas.services.RegisteredService)
+org/apereo/cas/adaptors/ldap/services/LdapServiceRegistryDao/update(org.apereo.cas.services.RegisteredService)
+org/apereo/cas/adaptors/ldap/services/LdapServiceRegistryDao/load()

@@ -1,0 +1,7 @@
+org/apereo/cas/adaptors/generic/ShiroAuthenticationHandler/checkSubjectRolesAndPermissions(org.apache.shiro.subject.Subject)
+org/apereo/cas/adaptors/generic/ShiroAuthenticationHandler/loadShiroConfiguration(org.springframework.core.io.Resource)
+org/apereo/cas/adaptors/generic/config/FileAuthenticationEventExecutionPlanConfiguration/fileAuthenticationHandler()
+org/apereo/cas/adaptors/generic/ShiroAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)
+org/apereo/cas/adaptors/generic/FileAuthenticationHandler/authenticateUsernamePasswordInternal(org.apereo.cas.authentication.UsernamePasswordCredential,java.lang.String)
+org/apereo/cas/adaptors/generic/config/RejectUsersAuthenticationEventExecutionPlanConfiguration/rejectUsersAuthenticationHandler()
+org/apereo/cas/adaptors/generic/config/ShiroAuthenticationEventExecutionPlanConfiguration/shiroAuthenticationHandler()
