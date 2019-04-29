@@ -1,0 +1,1 @@
+com/pholser/junit/quickcheck/guava/generator/OptionalGenerator/doShrink(com.pholser.junit.quickcheck.random.SourceOfRandomness,com.google.common.base.Optional)

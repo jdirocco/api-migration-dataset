@@ -1,0 +1,4 @@
+io/dropwizard/bundles/webjars/WebJarServlet/handle(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+io/dropwizard/bundles/webjars/AssetLoader/load(io.dropwizard.bundles.webjars.AssetId)
+io/dropwizard/bundles/webjars/WebJarServlet/WebJarServlet(com.google.common.cache.CacheBuilder,java.lang.Iterable,java.lang.String)
+io/dropwizard/bundles/webjars/VersionLoader/tryToLoadFrom(java.lang.String,java.lang.String,java.lang.String)

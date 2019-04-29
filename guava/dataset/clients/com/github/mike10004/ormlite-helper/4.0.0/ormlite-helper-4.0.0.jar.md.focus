@@ -1,0 +1,8 @@
+com/novetta/ibg/common/dbhelp/H2TableCreator/doCreateTestQueries(com.j256.ormlite.support.DatabaseConnection,com.j256.ormlite.db.DatabaseType,java.util.List)
+com/novetta/ibg/common/dbhelp/LazyJdbcConnectionSource/initialize()
+com/novetta/ibg/common/dbhelp/H2TableCreator/doStatements(com.j256.ormlite.support.DatabaseConnection,java.lang.String,java.util.Collection,boolean,boolean,boolean)
+com/novetta/ibg/common/dbhelp/LazyJdbcPooledConnectionSource/initialize()
+com/novetta/ibg/common/dbhelp/H2TableCreator/addCreateIndexStatements(com.j256.ormlite.db.DatabaseType,com.j256.ormlite.table.TableInfo,java.util.List,boolean,boolean)
+com/novetta/ibg/common/dbhelp/AbstractH2FileConnectionSource$DefaultSchemaTransform/apply(java.io.File)
+com/novetta/ibg/common/dbhelp/AbstractH2FileConnectionSource/getJdbcUrlSuffix()
+com/novetta/ibg/common/dbhelp/H2TableCreator/addCreateTableStatements(com.j256.ormlite.db.DatabaseType,com.j256.ormlite.table.TableInfo,java.util.List,java.util.List,boolean)

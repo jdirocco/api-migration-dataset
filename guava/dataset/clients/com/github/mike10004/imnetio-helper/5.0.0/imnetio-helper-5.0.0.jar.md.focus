@@ -1,0 +1,7 @@
+com/novetta/ibg/common/io/ByteSources$2/openStream()
+com/novetta/ibg/common/net/HttpRequests$ResponseDataResponseHandler/handleResponse(org.apache.http.HttpResponse)
+com/novetta/ibg/common/image/ImageInfo/_main(java.lang.String%5B%5D)
+com/novetta/ibg/common/image/ImageInfos/readImageSize(byte%5B%5D)
+com/novetta/ibg/common/net/HttpRequests$DefaultHttpRequester$HttpRequestFactoryBase/createRequest(java.net.URI,com.google.common.collect.Multimap)
+com/novetta/ibg/common/image/ImageInfo/printCompact(java.lang.String,com.novetta.ibg.common.image.ImageInfo)
+com/novetta/ibg/common/net/HttpRequests$ResponseData/getHeaderValues(java.lang.String)

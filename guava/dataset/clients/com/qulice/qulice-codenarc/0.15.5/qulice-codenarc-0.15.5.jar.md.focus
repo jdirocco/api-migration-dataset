@@ -1,0 +1,2 @@
+com/qulice/codenarc/CodeNarcValidator/logViolations(org.codenarc.results.Results,java.io.File)
+com/qulice/codenarc/CodeNarcValidator/detect(java.io.File,java.lang.String)

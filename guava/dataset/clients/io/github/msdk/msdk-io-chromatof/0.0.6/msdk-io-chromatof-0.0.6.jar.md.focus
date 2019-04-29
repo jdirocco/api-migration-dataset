@@ -1,0 +1,7 @@
+io/github/msdk/io/chromatof/ChromaTofParser/parseHeader(java.io.File,boolean)
+io/github/msdk/io/chromatof/ChromaTofParser/parseBody(java.util.LinkedHashSet,java.io.File,boolean)
+io/github/msdk/io/chromatof/ChromaTofParser/splitLine(java.lang.String,java.lang.String,java.lang.String)
+io/github/msdk/io/chromatof/ParserUtilities/convertMassSpectrum(java.lang.String)
+io/github/msdk/io/chromatof/ParserUtilities/getFilenameToGroupMap(java.io.File,java.lang.String)
+io/github/msdk/io/chromatof/ChromaTofFileImportMethod/createNewColumn(io.github.msdk.io.chromatof.ChromaTofParser$ColumnName,io.github.msdk.datamodel.featuretables.Sample)
+io/github/msdk/io/chromatof/ChromaTofFileImportMethod/execute()

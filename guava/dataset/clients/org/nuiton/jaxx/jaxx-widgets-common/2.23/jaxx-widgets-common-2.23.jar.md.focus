@@ -1,0 +1,4 @@
+org/nuiton/jaxx/widgets/DecoratorPopupHandler/preparePopup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,javax.swing.ButtonGroup,javax.swing.JSeparator,javax.swing.JLabel,javax.swing.AbstractButton,javax.swing.AbstractButton,org.nuiton.decorator.MultiJXPathDecorator)
+org/nuiton/jaxx/widgets/jformattedtextfield/JFormattedTextFieldNavigationManager/selectComponent(org.nuiton.jaxx.widgets.jformattedtextfield.JFormatterTextFieldInternalGroup)
+org/nuiton/jaxx/widgets/MutateOnConditionalPropertyChangeListener/propertyChange(java.beans.PropertyChangeEvent)
+org/nuiton/jaxx/widgets/jformattedtextfield/JFormatterTextFieldInternalGroups/addGroup(java.util.Set,org.nuiton.jaxx.widgets.jformattedtextfield.JFormatterTextFieldInternalGroup,int,int)

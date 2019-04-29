@@ -1,0 +1,8 @@
+com/shazam/fork/summary/TestResult/TestResult(com.shazam.fork.summary.TestResult$Builder)
+com/shazam/fork/suite/TestSuiteLoader/loadTestSuite()
+com/shazam/fork/io/ClassesDexFileExtractor/dumpDexFilesFromApk(java.io.File,java.io.File)
+com/shazam/fork/system/axmlparser/ApplicationInfoFactory/parseFromFile(java.io.File)
+com/shazam/fork/suite/TestSuiteLoader/convertClassToTestCaseEvents(org.jf.dexlib.ClassDefItem)
+com/shazam/fork/system/axmlparser/ApplicationInfoFactory/parsePermission(com.shazam.axmlparser.AXMLParser,java.util.List)
+com/shazam/fork/system/axmlparser/InstrumentationInfoFactory/parseFromFile(java.io.File)
+com/shazam/fork/model/Device/Device(com.shazam.fork.model.Device$Builder)

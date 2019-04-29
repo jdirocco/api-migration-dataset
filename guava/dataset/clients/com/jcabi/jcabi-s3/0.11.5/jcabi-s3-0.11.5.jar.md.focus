@@ -1,0 +1,5 @@
+com/jcabi/s3/AwsOcket/write_aroundBody10(com.jcabi.s3.AwsOcket,java.io.InputStream,com.amazonaws.services.s3.model.ObjectMetadata,org.aspectj.lang.JoinPoint)
+com/jcabi/s3/AwsOcket/meta_aroundBody4(com.jcabi.s3.AwsOcket,org.aspectj.lang.JoinPoint)
+com/jcabi/s3/AwsOcket/read_aroundBody8(com.jcabi.s3.AwsOcket,java.io.OutputStream,org.aspectj.lang.JoinPoint)
+com/jcabi/s3/AwsListIterator/load()
+com/jcabi/s3/AwsOcket/exists_aroundBody6(com.jcabi.s3.AwsOcket,org.aspectj.lang.JoinPoint)

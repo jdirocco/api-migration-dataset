@@ -1,0 +1,2 @@
+com/github/phantomthief/util/LoadingMerger/get(java.util.Collection)
+com/github/phantomthief/util/RetrieveIdUtils/getByIterator(java.util.Collection,java.util.Iterator)

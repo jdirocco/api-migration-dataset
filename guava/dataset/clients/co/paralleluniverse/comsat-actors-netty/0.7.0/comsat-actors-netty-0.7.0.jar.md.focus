@@ -1,0 +1,12 @@
+co/paralleluniverse/comsat/webactors/netty/WebActorHandler/writeHttpResponse(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.FullHttpRequest,io.netty.handler.codec.http.FullHttpResponse,boolean)
+co/paralleluniverse/comsat/webactors/netty/WebActorHandler/getNettyCookie(co.paralleluniverse.comsat.webactors.Cookie)
+co/paralleluniverse/comsat/webactors/netty/AutoWebActorHandler$AutoContext$1/visit(java.lang.String,java.net.URL,java.lang.ClassLoader)
+co/paralleluniverse/comsat/webactors/netty/WebActorHandler$HttpActorAdapter/handleReply(co.paralleluniverse.comsat.webactors.HttpResponse)
+co/paralleluniverse/comsat/webactors/netty/HttpRequestWrapper/getParameters()
+co/paralleluniverse/comsat/webactors/netty/WebActorHandler/handleWebSocketFrame(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.websocketx.WebSocketFrame)
+java+initializer:///co/paralleluniverse/comsat/webactors/netty/WebActorHandler/WebActorHandler$initializer
+co/paralleluniverse/comsat/webactors/netty/WebActorHandler/handleHttpRequest(io.netty.channel.ChannelHandlerContext,io.netty.handler.codec.http.FullHttpRequest)
+co/paralleluniverse/comsat/webactors/netty/AutoWebActorHandler$AutoContext/autoCreateActor(io.netty.handler.codec.http.FullHttpRequest)
+co/paralleluniverse/comsat/webactors/netty/HttpRequestWrapper/extractCharacterEncoding(com.google.common.collect.ListMultimap)
+co/paralleluniverse/comsat/webactors/netty/WebActorHandler/cleanSessions()
+co/paralleluniverse/comsat/webactors/netty/HttpRequestWrapper/getCookies()

@@ -1,0 +1,6 @@
+io/github/msdk/io/mztab/MzTabFileExportMethod/writeMetaData(io.github.msdk.datamodel.featuretables.FeatureTable,java.io.FileWriter,uk.ac.ebi.pride.jmztab.model.Metadata,uk.ac.ebi.pride.jmztab.model.MZTabColumnFactory)
+io/github/msdk/io/mztab/MzTabFileImportMethod/addColumns(io.github.msdk.datamodel.featuretables.FeatureTable,uk.ac.ebi.pride.jmztab.model.MZTabFile)
+io/github/msdk/io/mztab/MzTabFileImportMethod/execute()
+io/github/msdk/io/mztab/MzTabFileImportMethod/addRows(io.github.msdk.datamodel.featuretables.FeatureTable,uk.ac.ebi.pride.jmztab.model.MZTabFile)
+io/github/msdk/io/mztab/MzTabFileExportMethod/writeSampleData(io.github.msdk.datamodel.featuretables.FeatureTable,java.io.FileWriter,uk.ac.ebi.pride.jmztab.model.Metadata,uk.ac.ebi.pride.jmztab.model.MZTabColumnFactory)
+io/github/msdk/io/mztab/MzTabFileExportMethod/execute()

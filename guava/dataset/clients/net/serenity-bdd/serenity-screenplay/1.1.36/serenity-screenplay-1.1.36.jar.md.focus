@@ -1,0 +1,3 @@
+net/serenitybdd/screenplay/BooleanQuestionConsequence/evaluateFor(net.serenitybdd.screenplay.Actor)
+net/serenitybdd/screenplay/annotations/AnnotatedTitle/using(java.lang.Object)
+net/serenitybdd/screenplay/QuestionConsequence/evaluateFor(net.serenitybdd.screenplay.Actor)

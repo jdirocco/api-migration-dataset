@@ -1,0 +1,2 @@
+org/nextrtc/signalingserver/domain/Server/buildInternalMessage(org.nextrtc.signalingserver.domain.Message,javax.websocket.Session)
+org/nextrtc/signalingserver/api/NextRTCEndpoint/NextRTCEndpoint()

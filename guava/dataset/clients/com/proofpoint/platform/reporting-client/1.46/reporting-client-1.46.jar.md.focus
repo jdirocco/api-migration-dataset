@@ -1,0 +1,4 @@
+com/proofpoint/reporting/ReportClient/ReportClient(com.proofpoint.node.NodeInfo,com.proofpoint.http.client.HttpClient,com.proofpoint.reporting.ReportClientConfig,com.fasterxml.jackson.databind.ObjectMapper)
+com/proofpoint/reporting/ReportClient$DataPoint/ReportClient$DataPoint(long,com.google.common.collect.Table$Cell,java.util.Map)
+com/proofpoint/reporting/ReportClient/report(long,com.google.common.collect.Table)
+com/proofpoint/reporting/ReportCollector/collectData()

@@ -1,0 +1,8 @@
+org/javersion/core/Diff/diff(java.util.SortedMap,java.util.SortedMap)
+org/javersion/core/MergeBuilder/overwrite(org.javersion.core.Version)
+org/javersion/core/OptimizedGraphBuilder$OptimizedVersionBuilder/build(java.util.function.Function)
+org/javersion/core/VersionGraphBuilder/resetVersion(org.javersion.core.Version,org.javersion.util.MutableSortedMap)
+org/javersion/core/Diff/diffBySmallerTo(java.util.Map,java.util.Map)
+org/javersion/core/Diff/diffBySmallerFrom(java.util.Map,java.util.Map)
+org/javersion/core/VersionGraphBuilder/add(org.javersion.core.Version)
+org/javersion/core/OptimizedGraphBuilder/OptimizedGraphBuilder(org.javersion.core.VersionGraph,java.util.function.Predicate)

@@ -1,0 +1,2 @@
+org/apache/james/jwt/PublicKeyReader/publicKeyFrom(org.bouncycastle.openssl.PEMParser)
+org/apache/james/jwt/JwtTokenVerifier/hasAttribute(java.lang.String,java.lang.Object,java.lang.String)

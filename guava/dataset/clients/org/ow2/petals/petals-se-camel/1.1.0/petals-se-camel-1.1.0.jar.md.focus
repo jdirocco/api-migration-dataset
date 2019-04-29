@@ -1,0 +1,6 @@
+org/ow2/petals/camel/se/CamelJBIListener/onJBIMessage(org.ow2.petals.component.framework.api.message.Exchange)
+org/ow2/petals/camel/se/CamelSUManager/createCamelSU(org.ow2.petals.component.framework.su.ServiceUnitDataHandler)
+org/ow2/petals/camel/se/utils/PetalsCamelJBIHelper/getOperationsAndServiceId(org.w3c.dom.Document,org.ow2.petals.component.framework.jbidescriptor.generated.Provides)
+org/ow2/petals/camel/se/utils/PetalsCamelJBIHelper/extractServicesIdAndEndpointOperations(org.ow2.petals.component.framework.su.ServiceUnitDataHandler,org.ow2.petals.camel.se.PetalsCamelSender)
+org/ow2/petals/camel/se/CamelSU/CamelSU(com.google.common.collect.ImmutableMap,com.google.common.collect.ImmutableList,com.google.common.collect.ImmutableList,java.net.URLClassLoader,java.util.logging.Logger,org.ow2.petals.camel.se.CamelSUManager)
+org/ow2/petals/camel/se/CamelSU/undeploy()

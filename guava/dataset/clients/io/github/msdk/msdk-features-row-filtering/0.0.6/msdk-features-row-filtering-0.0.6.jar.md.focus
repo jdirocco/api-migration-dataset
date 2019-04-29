@@ -1,0 +1,2 @@
+io/github/msdk/features/rowfilter/RowFilterMethod/copyRow(io.github.msdk.datamodel.featuretables.FeatureTableRow,io.github.msdk.datamodel.featuretables.FeatureTable)
+io/github/msdk/features/rowfilter/RowFilterMethod/execute()

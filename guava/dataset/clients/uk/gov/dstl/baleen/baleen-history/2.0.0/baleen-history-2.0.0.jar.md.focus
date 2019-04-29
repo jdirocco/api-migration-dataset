@@ -1,0 +1,6 @@
+uk/gov/dstl/baleen/history/mongo/MongoDocumentHistory/add(uk.gov.dstl.baleen.core.history.HistoryEvent)
+uk/gov/dstl/baleen/history/mongo/MongoDocumentHistory/convert(uk.gov.dstl.baleen.core.history.HistoryEvent)
+uk/gov/dstl/baleen/history/mongo/MongoDocumentHistory/convert(com.mongodb.DBObject)
+uk/gov/dstl/baleen/history/elasticsearch/ElasticsearchHistory/loadExistingDocumentHistory(java.lang.String)
+uk/gov/dstl/baleen/history/mongo/MongoDocumentHistory/convertToStringMap(java.lang.Object)
+uk/gov/dstl/baleen/history/elasticsearch/ElasticsearchHistory/closeHistory(java.lang.String)

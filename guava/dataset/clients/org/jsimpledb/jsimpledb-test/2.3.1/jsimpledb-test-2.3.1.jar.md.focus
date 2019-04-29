@@ -1,0 +1,5 @@
+org/jsimpledb/test/TestSupport/checkValid(java.lang.Object,boolean)
+org/jsimpledb/test/TestSupport/checkSet(java.util.Set,java.util.Set,boolean)
+org/jsimpledb/test/TestSupport/readResource(java.net.URL)
+org/jsimpledb/test/TestSupport/createTempDirectory()
+org/jsimpledb/test/TestSupport/checkMap(java.util.Map,java.util.Map,boolean)

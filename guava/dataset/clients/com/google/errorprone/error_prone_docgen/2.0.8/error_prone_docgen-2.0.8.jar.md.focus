@@ -1,0 +1,8 @@
+com/google/errorprone/BugPatternInstance/fromElement(javax.lang.model.element.Element)
+com/google/errorprone/BugPatternInstance/annotationKeyValues(javax.lang.model.element.AnnotationMirror)
+com/google/errorprone/BugPatternInstance/getAnnotation(javax.lang.model.element.Element,java.lang.String)
+com/google/errorprone/BugPatternFileGenerator$PathToExampleInfo/apply(java.nio.file.Path)
+com/google/errorprone/BugPatternFileGenerator/writeExample(com.google.errorprone.ExampleInfo,java.io.Writer)
+com/google/errorprone/DocGenTool/main(java.lang.String%5B%5D)
+com/google/errorprone/BugPatternIndexWriter/dump(java.util.Collection,java.io.Writer,com.google.errorprone.DocGenTool$Target)
+com/google/errorprone/BugPatternFileGenerator/processLine(java.lang.String)

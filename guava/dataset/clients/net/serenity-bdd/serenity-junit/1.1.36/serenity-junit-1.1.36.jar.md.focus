@@ -1,0 +1,7 @@
+net/serenitybdd/junit/runners/ParameterizedJUnitStepListener/testingThisDataSet(org.junit.runner.Description)
+net/serenitybdd/junit/runners/TestClassRunnerForParameters/computeParams()
+net/serenitybdd/junit/finder/DataDrivenTestFinder/countTestMethods()
+net/serenitybdd/junit/runners/ParameterizedTestsOutcomeAggregator/recordTestOutcomeAsSteps(net.thucydides.core.model.TestOutcome,net.thucydides.core.model.TestOutcome)
+net/serenitybdd/junit/runners/SerenityStatement/checkForStepFailures()
+net/serenitybdd/junit/runners/DataDrivenAnnotations/findTestDataSource()
+net/serenitybdd/junit/runners/ParameterizedTestsOutcomeAggregator/aggregatedScenarioOutcomes(java.util.List)

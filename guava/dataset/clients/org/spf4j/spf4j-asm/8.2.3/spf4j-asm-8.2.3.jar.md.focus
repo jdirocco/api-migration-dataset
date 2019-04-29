@@ -1,0 +1,4 @@
+org/spf4j/base/asm/MethodInvocationClassVisitor$MethodVisitorImpl/visitInsn(int)
+org/spf4j/base/asm/MethodInvocationClassVisitor$MethodVisitorImpl/visitMethodInsn(int,java.lang.String,java.lang.String,java.lang.String,boolean)
+org/spf4j/base/asm/Scanner/findUsages(java.lang.String,java.util.Set)
+org/spf4j/base/asm/MethodInvocationClassVisitor$MethodVisitorImpl/visitFieldInsn(int,java.lang.String,java.lang.String,java.lang.String)

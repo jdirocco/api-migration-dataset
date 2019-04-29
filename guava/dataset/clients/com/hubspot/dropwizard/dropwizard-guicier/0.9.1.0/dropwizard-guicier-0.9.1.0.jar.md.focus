@@ -1,0 +1,4 @@
+com/hubspot/dropwizard/guicier/DropwizardModule/register(io.dropwizard.setup.Environment,com.google.inject.Injector)
+com/hubspot/dropwizard/guicier/GuiceBundle$1/configure(com.google.inject.Binder)
+com/hubspot/dropwizard/guicier/DropwizardModule/registerResourcesAndProviders(org.glassfish.jersey.server.ResourceConfig,com.google.inject.Injector)
+com/hubspot/dropwizard/guicier/GuiceBundle/run(io.dropwizard.Configuration,io.dropwizard.setup.Environment)

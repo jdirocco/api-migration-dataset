@@ -1,0 +1,1 @@
+com/cedarsoft/serialization/neo4j/AbstractDelegatingNeo4jSerializer/deserialize(org.neo4j.graphdb.Node,com.cedarsoft.version.Version)

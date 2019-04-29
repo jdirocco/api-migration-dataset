@@ -1,0 +1,8 @@
+com/google/cloud/bigtable/mapreduce/Import$Importer/writeResult(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper$Context)
+com/google/cloud/bigtable/mapreduce/Import/convertKv(org.apache.hadoop.hbase.Cell,java.util.Map)
+com/google/cloud/bigtable/mapreduce/Import$KeyValueImporter/map(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper$Context)
+com/google/cloud/bigtable/mapreduce/Import/run(java.lang.String%5B%5D)
+com/google/cloud/bigtable/mapreduce/Import/configureCfRenaming(org.apache.hadoop.conf.Configuration,java.util.Map)
+com/google/cloud/bigtable/mapreduce/Import$Importer/processKV(org.apache.hadoop.hbase.io.ImmutableBytesWritable,org.apache.hadoop.hbase.client.Result,org.apache.hadoop.mapreduce.Mapper$Context,org.apache.hadoop.hbase.client.Put,org.apache.hadoop.hbase.client.Delete)
+com/google/cloud/bigtable/mapreduce/Import/instantiateFilter(org.apache.hadoop.conf.Configuration)
+com/google/cloud/bigtable/mapreduce/Import/createSubmittableJob(org.apache.hadoop.conf.Configuration,java.lang.String%5B%5D)

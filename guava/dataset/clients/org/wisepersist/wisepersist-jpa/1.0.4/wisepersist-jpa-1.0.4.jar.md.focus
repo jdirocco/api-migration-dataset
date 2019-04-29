@@ -1,0 +1,2 @@
+org/wisepersist/jpa/DaoMethodInterceptor/invoke(org.aopalliance.intercept.MethodInvocation)
+org/wisepersist/jpa/EntityManagerFactoryProvider/get(java.lang.String,org.wisepersist.jpa.DataSourceProvider,java.util.Map)

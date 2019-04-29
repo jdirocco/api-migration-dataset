@@ -1,0 +1,3 @@
+com/hubspot/dropwizard/guicier/GuiceBundle/getNextServiceLocatorName()
+com/hubspot/dropwizard/guicier/DropwizardModule/registerResourcesAndProviders(org.glassfish.jersey.server.ResourceConfig,com.google.inject.Injector)
+com/hubspot/dropwizard/guicier/GuiceBundle/run(io.dropwizard.Configuration,io.dropwizard.setup.Environment)

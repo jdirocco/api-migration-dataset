@@ -1,0 +1,4 @@
+com/proofpoint/platform/sample/MainModule/configure(com.google.inject.Binder)
+com/proofpoint/platform/sample/PersonStore/PersonStore(com.proofpoint.platform.sample.StoreConfig,com.google.common.base.Ticker)
+com/proofpoint/platform/sample/Main/main(java.lang.String%5B%5D)
+com/proofpoint/platform/sample/PersonStore/getAll()

@@ -1,0 +1,8 @@
+org/apache/james/server/core/MimeMessageInputStreamSource/MimeMessageInputStreamSource(java.lang.String,java.io.InputStream)
+org/apache/james/server/core/configuration/FileConfigurationProvider/retrieveConfigInputStream(java.lang.String)
+org/apache/james/server/core/filesystem/ResourceUtils/getFile(java.net.URL,java.lang.String)
+org/apache/james/server/core/filesystem/ResourceFactory/interpretPath(java.lang.String)
+org/apache/james/server/core/MailImpl/cloneSerializableObject(java.lang.Object)
+org/apache/james/server/core/MimeMessageInputStream/MimeMessageInputStream(javax.mail.internet.MimeMessage,boolean)
+org/apache/james/server/core/MailImpl/MailImpl(org.apache.mailet.Mail,java.lang.String)
+org/apache/james/server/core/MimeMessageWrapper/MimeMessageWrapper(javax.mail.internet.MimeMessage)

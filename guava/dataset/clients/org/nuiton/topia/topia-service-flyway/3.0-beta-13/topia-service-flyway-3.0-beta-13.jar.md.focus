@@ -1,0 +1,4 @@
+org/nuiton/topia/flyway/TopiaFlywayServiceImpl/initOnCreateSchema()
+org/nuiton/topia/flyway/TopiaFlywayServiceImpl/runSchemaMigration()
+org/nuiton/topia/flyway/TopiaFlywayServiceImpl/setLocations(org.flywaydb.core.Flyway,org.nuiton.topia.persistence.TopiaApplicationContext)
+org/nuiton/topia/flyway/TopiaFlywayServiceImpl/initTopiaService(org.nuiton.topia.persistence.TopiaApplicationContext,java.util.Map)

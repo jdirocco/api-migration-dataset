@@ -1,0 +1,6 @@
+org/fcrepo/camel/FcrepoTransactionManager/doCommit(org.springframework.transaction.support.DefaultTransactionStatus)
+org/fcrepo/camel/FcrepoTransactionManager/doBegin(java.lang.Object,org.springframework.transaction.TransactionDefinition)
+org/fcrepo/camel/FcrepoTransactionManager/doRollback(org.springframework.transaction.support.DefaultTransactionStatus)
+org/fcrepo/camel/processor/SparqlInsertProcessor/process(org.apache.camel.Exchange)
+org/fcrepo/camel/processor/SparqlUpdateProcessor/process(org.apache.camel.Exchange)
+org/fcrepo/camel/FcrepoProducer/doRequest(org.apache.camel.Exchange,java.lang.String)

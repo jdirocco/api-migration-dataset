@@ -1,0 +1,5 @@
+org/aksw/jena_sparql_api/sparql/ext/json/JenaExtensionJson/register()
+org/aksw/jena_sparql_api/sparql/ext/http/HttpInterceptorRdfLogging/process(org.apache.http.HttpResponse,org.apache.http.protocol.HttpContext)
+org/aksw/jena_sparql_api/sparql/ext/http/E_Http/_exec(org.apache.jena.sparql.expr.NodeValue)
+org/aksw/jena_sparql_api/sparql/ext/json/E_JsonPath/jsonToNodeValue(com.google.gson.JsonElement,com.google.gson.Gson)
+org/aksw/jena_sparql_api/sparql/ext/json/PropertyFunctionFactoryJsonUnnest$1/execEvaluated(org.apache.jena.sparql.engine.binding.Binding,org.apache.jena.graph.Node,org.apache.jena.graph.Node,org.apache.jena.graph.Node,org.apache.jena.sparql.engine.ExecutionContext)

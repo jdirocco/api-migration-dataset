@@ -1,0 +1,7 @@
+org/jsimpledb/kv/bdb/BerkeleyKVDatabase/BerkeleyKVDatabase()
+org/jsimpledb/kv/bdb/BerkeleyKVTransaction$CursorIterator/remove()
+org/jsimpledb/kv/bdb/BerkeleyKVTransaction$CursorIterator/findNext()
+org/jsimpledb/kv/bdb/BerkeleyKVDatabase/stop()
+org/jsimpledb/kv/bdb/BerkeleyKVTransaction$CursorIterator/BerkeleyKVTransaction$CursorIterator(org.jsimpledb.kv.bdb.BerkeleyKVTransaction,com.sleepycat.je.Cursor,byte%5B%5D,byte%5B%5D,boolean)
+org/jsimpledb/kv/bdb/BerkeleyKVTransaction$CursorIterator/initialize()
+org/jsimpledb/kv/bdb/BerkeleyKVDatabase/setDatabaseConfig(com.sleepycat.je.DatabaseConfig)

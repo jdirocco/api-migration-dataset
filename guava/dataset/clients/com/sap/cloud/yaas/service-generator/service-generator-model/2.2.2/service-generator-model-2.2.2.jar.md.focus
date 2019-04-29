@@ -1,0 +1,6 @@
+com/sap/cloud/yaas/servicegenerator/model/Resource/getMethods(com.sap.cloud.yaas.servicegenerator.model.MethodType)
+com/sap/cloud/yaas/servicegenerator/model/support/Paths/replacePathPatterns(java.lang.String,java.util.List)
+com/sap/cloud/yaas/servicegenerator/model/Method$MethodBuilder/build()
+com/sap/cloud/yaas/servicegenerator/model/Resource/getMethods(java.lang.String)
+com/sap/cloud/yaas/servicegenerator/model/Method$MethodBuilder/Method$MethodBuilder(com.sap.cloud.yaas.servicegenerator.model.Method)
+com/sap/cloud/yaas/servicegenerator/model/APIReference$APIReferenceBuilder/build()

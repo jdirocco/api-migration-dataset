@@ -1,0 +1,5 @@
+io/dropwizard/util/Duration/parse(java.lang.String)
+io/dropwizard/util/Size/parse(java.lang.String)
+io/dropwizard/util/Duration/toString()
+io/dropwizard/util/Generics/getTypeParameter(java.lang.Class,java.lang.Class)
+io/dropwizard/util/Size/toString()

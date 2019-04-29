@@ -1,0 +1,3 @@
+com/gocardless/http/UrlFormatter/formatUrl(java.lang.String,java.util.Map,java.util.Map)
+com/gocardless/http/ResponseParser/parsePage(java.io.Reader,java.lang.String,com.google.gson.reflect.TypeToken)
+com/gocardless/http/HttpClient/execute(com.gocardless.http.HttpRequest)

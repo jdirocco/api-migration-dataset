@@ -1,0 +1,5 @@
+org/apache/james/mailbox/model/MailboxACL/toMap(java.util.Properties)
+org/apache/james/mailbox/acl/UnionMailboxACLResolver/applies(org.apache.james.mailbox.model.MailboxACL$EntryKey,org.apache.james.mailbox.model.MailboxACL$EntryKey,org.apache.james.mailbox.acl.GroupMembershipResolver,java.lang.String,boolean)
+org/apache/james/mailbox/model/MailboxACL$EntryKey/deserialize(java.lang.String)
+org/apache/james/mailbox/model/MailboxACL/union(org.apache.james.mailbox.model.MailboxACL)
+org/apache/james/mailbox/model/MailboxACL/replace(org.apache.james.mailbox.model.MailboxACL$EntryKey,org.apache.james.mailbox.model.MailboxACL$Rfc4314Rights)

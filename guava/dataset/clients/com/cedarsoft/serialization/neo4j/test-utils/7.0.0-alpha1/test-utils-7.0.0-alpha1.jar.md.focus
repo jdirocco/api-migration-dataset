@@ -1,0 +1,4 @@
+com/cedarsoft/serialization/neo4j/test/utils/Graphviz/toPng(org.neo4j.graphdb.GraphDatabaseService)
+com/cedarsoft/serialization/neo4j/test/utils/Graphviz$1/accept(org.neo4j.walk.Visitor)
+com/cedarsoft/serialization/neo4j/test/utils/AbstractNeo4jSerializerTest2/serialize(com.cedarsoft.serialization.Serializer,java.lang.Object)
+com/cedarsoft/serialization/neo4j/test/utils/AbstractNeo4jSerializerTest2/create(java.lang.Object,java.net.URL)

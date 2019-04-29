@@ -1,0 +1,8 @@
+org/jsimpledb/kv/simple/SimpleKVDatabase/getLock(org.jsimpledb.kv.simple.SimpleKVTransaction,byte%5B%5D,byte%5B%5D,boolean)
+org/jsimpledb/kv/simple/SimpleKVDatabase/commit(org.jsimpledb.kv.simple.SimpleKVTransaction)
+org/jsimpledb/kv/simple/XMLKVDatabase/readXML()
+org/jsimpledb/kv/simple/SimpleKVDatabase/removeRange(org.jsimpledb.kv.simple.SimpleKVTransaction,byte%5B%5D,byte%5B%5D)
+org/jsimpledb/kv/simple/SimpleKVDatabase/getAtLeast(org.jsimpledb.kv.simple.SimpleKVTransaction,byte%5B%5D)
+org/jsimpledb/kv/simple/SimpleKVDatabase/getAtMost(org.jsimpledb.kv.simple.SimpleKVTransaction,byte%5B%5D)
+org/jsimpledb/kv/simple/SimpleKVTransaction/mutableSnapshot()
+org/jsimpledb/kv/simple/SimpleKVDatabase/put(org.jsimpledb.kv.simple.SimpleKVTransaction,byte%5B%5D,byte%5B%5D)

@@ -1,0 +1,7 @@
+com/github/jakubkolar/autobuilder/impl/BeanResolver/resolveField(java.lang.String,java.lang.reflect.Field)
+com/github/jakubkolar/autobuilder/impl/BeanResolver/resolve(java.lang.Class,java.lang.String,java.util.Collection)
+com/github/jakubkolar/autobuilder/impl/BuiltInResolvers/primitiveTypeResolver(java.lang.Class,java.lang.String)
+com/github/jakubkolar/autobuilder/impl/ResolverChain/resolve(java.lang.Class,java.lang.String,java.util.Collection)
+com/github/jakubkolar/autobuilder/resolvers/GuavaResolver/resolve(java.lang.Class,java.lang.String,java.util.Collection)
+com/github/jakubkolar/autobuilder/impl/BuilderImpl/with(java.util.Map)
+com/github/jakubkolar/autobuilder/impl/NamedResolver/resolve(java.lang.Class,java.lang.String,java.util.Collection)

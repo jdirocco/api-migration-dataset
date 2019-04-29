@@ -1,0 +1,2 @@
+org/jpmml/converter/PMMLUtil/createHeader(java.lang.String)
+org/jpmml/converter/PMMLUtil/getDataType(java.util.List)

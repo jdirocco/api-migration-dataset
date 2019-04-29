@@ -1,0 +1,6 @@
+org/simmetrics/builders/StringDistances/create(org.simmetrics.Distance,org.simmetrics.simplifiers.Simplifier)
+org/simmetrics/tokenizers/Tokenizers$Recursive/tokenizeToSet(java.lang.String)
+org/simmetrics/tokenizers/Tokenizers$Recursive/tokenizeToList(java.lang.String)
+org/simmetrics/tokenizers/Tokenizers$QGram/tokenizeToList(java.lang.String)
+org/simmetrics/metrics/StringMetrics/create(org.simmetrics.Metric,org.simmetrics.simplifiers.Simplifier)
+org/simmetrics/tokenizers/Tokenizers$Recursive/tokenizeToMultiset(java.lang.String)

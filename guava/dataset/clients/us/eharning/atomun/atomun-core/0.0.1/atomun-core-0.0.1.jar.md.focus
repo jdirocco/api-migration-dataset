@@ -1,0 +1,5 @@
+us/eharning/atomun/core/ec/internal/BouncyCastleECKeyPair/sign(byte%5B%5D)
+us/eharning/atomun/core/ec/internal/BouncyCastleECPublicKey/verify(byte%5B%5D,byte%5B%5D)
+us/eharning/atomun/core/encoding/Base58$ByteArrayBase58Codec/doBackward(java.lang.String)
+us/eharning/atomun/core/ec/internal/BouncyCastleECKeyPair/createNew(boolean)
+us/eharning/atomun/core/encoding/Base58$BigIntegerBase58Codec/doForward(byte%5B%5D)

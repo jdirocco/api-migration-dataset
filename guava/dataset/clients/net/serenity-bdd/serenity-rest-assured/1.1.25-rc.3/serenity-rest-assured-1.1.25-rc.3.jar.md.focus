@@ -1,0 +1,2 @@
+net/serenitybdd/rest/SerenityRest/notifyPostOrPut(java.lang.Object%5B%5D,net.serenitybdd.core.rest.RestMethod)
+net/serenitybdd/rest/SerenityRest/notifyResponse(com.jayway.restassured.response.Response)

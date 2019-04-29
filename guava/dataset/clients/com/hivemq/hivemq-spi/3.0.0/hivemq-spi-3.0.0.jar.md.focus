@@ -1,0 +1,3 @@
+com/hivemq/spi/message/PUBLISH/copy(com.hivemq.spi.message.PUBLISH)
+com/hivemq/spi/services/configuration/validation/validators/ListenerValidator/validateKeyStorePath(com.hivemq.spi.services.configuration.entity.Tls,com.google.common.collect.ImmutableList$Builder)
+com/hivemq/spi/services/configuration/validation/validators/ListenerValidator/validateTrustStorePath(com.hivemq.spi.services.configuration.entity.Tls,com.google.common.collect.ImmutableList$Builder)

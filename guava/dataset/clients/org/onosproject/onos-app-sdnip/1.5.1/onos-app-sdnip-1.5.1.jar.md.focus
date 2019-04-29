@@ -1,0 +1,6 @@
+org/onosproject/sdnip/PeerConnectivityManager/setUpConnectivity()
+org/onosproject/sdnip/SdnIpFib/generateRouteIntent(org.onlab.packet.IpPrefix,org.onlab.packet.IpAddress,org.onlab.packet.MacAddress)
+org/onosproject/sdnip/PeerConnectivityManager/buildSpeakerIntents(org.onosproject.routing.config.BgpConfig$BgpSpeakerConfig)
+org/onosproject/sdnip/PeerConnectivityManager/buildSelector(byte,org.onlab.packet.IpAddress,org.onlab.packet.IpAddress,java.lang.Short,java.lang.Short)
+org/onosproject/sdnip/PeerConnectivityManager/buildIntents(org.onosproject.net.ConnectPoint,org.onlab.packet.IpAddress,org.onosproject.net.ConnectPoint,org.onlab.packet.IpAddress)
+org/onosproject/sdnip/SdnIpFib/update(java.util.Collection,java.util.Collection)

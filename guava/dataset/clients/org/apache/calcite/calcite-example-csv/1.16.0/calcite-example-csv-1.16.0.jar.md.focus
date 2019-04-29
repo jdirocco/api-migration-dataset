@@ -1,0 +1,5 @@
+org/apache/calcite/adapter/csv/JsonEnumerator/JsonEnumerator(org.apache.calcite.util.Source)
+org/apache/calcite/adapter/csv/CsvSchema/createTableMap()
+org/apache/calcite/adapter/csv/CsvEnumerator/deduceRowType(org.apache.calcite.adapter.java.JavaTypeFactory,org.apache.calcite.util.Source,java.util.List,java.lang.Boolean)
+org/apache/calcite/adapter/csv/CsvEnumerator$RowConverter/convert(org.apache.calcite.adapter.csv.CsvFieldType,java.lang.String)
+org/apache/calcite/adapter/csv/CsvTableScan/implement(org.apache.calcite.adapter.enumerable.EnumerableRelImplementor,org.apache.calcite.adapter.enumerable.EnumerableRel$Prefer)

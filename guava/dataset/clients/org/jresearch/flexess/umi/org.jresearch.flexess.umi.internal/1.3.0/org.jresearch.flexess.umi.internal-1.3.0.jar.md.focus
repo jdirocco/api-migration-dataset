@@ -1,0 +1,4 @@
+org/jresearch/flexess/umi/provider/impl/SingleInstanceUserManagerFactory/check(java.util.Collection)
+org/jresearch/flexess/umi/provider/impl/SingleInstanceUserManagerFactory/init()
+org/jresearch/flexess/umi/service/impl/UmiSettingsManager/getSettingsImpl(java.lang.String)
+org/jresearch/flexess/umi/internal/impl/UmiProviderRegistry/onApplicationEvent(org.springframework.context.event.ContextRefreshedEvent)

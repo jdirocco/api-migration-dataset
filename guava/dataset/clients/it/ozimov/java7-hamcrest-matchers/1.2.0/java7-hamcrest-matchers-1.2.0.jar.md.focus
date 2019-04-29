@@ -1,0 +1,2 @@
+it/ozimov/cirneco/hamcrest/java7/collect/IsIterableContained/notRepeated(java.lang.Iterable,java.lang.Iterable)
+it/ozimov/cirneco/hamcrest/java7/collect/IsIterableWithDistinctElements/describeMismatchSafely(java.lang.Iterable,org.hamcrest.Description)

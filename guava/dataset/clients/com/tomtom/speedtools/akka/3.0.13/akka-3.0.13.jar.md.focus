@@ -1,0 +1,6 @@
+com/tomtom/speedtools/akka/ActorFactory/findConstructor(java.lang.Class,java.lang.Object%5B%5D)
+com/tomtom/speedtools/akka/AkkaUtils/actorName(java.lang.String,java.lang.String%5B%5D)
+com/tomtom/speedtools/akka/TypedActorFactory/routerFor(java.lang.String,java.lang.Class,akka.routing.RouterConfig)
+com/tomtom/speedtools/akka/TypedActorFactory/actorFor(java.lang.String,java.lang.Class)
+com/tomtom/speedtools/akka/ActorFactory/newInstance(akka.actor.ActorSystem,java.lang.Class,com.tomtom.speedtools.akka.TypedActorContext,java.lang.Object%5B%5D)
+com/tomtom/speedtools/akka/TypedActorFactory/actorOf(java.lang.String,java.lang.String,akka.actor.ActorSystem,akka.actor.TypedActorFactory,java.lang.Class,java.lang.Class,java.lang.Object%5B%5D)

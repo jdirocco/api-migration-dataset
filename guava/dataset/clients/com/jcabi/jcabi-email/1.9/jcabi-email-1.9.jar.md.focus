@@ -1,0 +1,3 @@
+com/jcabi/email/Token/access(com.jcabi.email.Protocol)
+com/jcabi/email/Envelope$MIME/unwrap()
+com/jcabi/email/Envelope$Safe/unwrap()

@@ -1,0 +1,8 @@
+org/apache/james/queue/activemq/ActiveMQMailQueue/copy(javax.jms.Session,javax.jms.Message)
+org/apache/james/queue/activemq/ActiveMQMailQueue/getSize()
+org/apache/james/queue/activemq/EmbeddedActiveMQ/launchEmbeddedBroker(org.apache.james.filesystem.api.FileSystem)
+org/apache/james/queue/activemq/FileSystemBlobStrategy/uploadStream(org.apache.activemq.command.ActiveMQBlobMessage,java.io.InputStream)
+org/apache/james/queue/activemq/ActiveMQMailQueue/populateMailMimeMessage(javax.jms.Message,org.apache.mailet.Mail)
+org/apache/james/queue/activemq/FileSystemBlobStrategy/getFile(org.apache.activemq.command.ActiveMQBlobMessage)
+org/apache/james/queue/activemq/FileSystemBlobTransferPolicy/copy()
+org/apache/james/queue/activemq/ActiveMQMailQueue/produceMail(java.util.Map,int,org.apache.mailet.Mail)

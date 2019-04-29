@@ -1,0 +1,2 @@
+io/getlime/security/powerauth/http/PowerAuthHttpHeader/parsePowerAuthSignatureHTTPHeader(java.lang.String)
+io/getlime/security/powerauth/http/PowerAuthRequestCanonizationUtils/canonizeGetParameters(java.lang.String)

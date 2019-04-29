@@ -1,0 +1,7 @@
+org/apache/james/protocols/netty/ConnectionPerIpLimitUpstreamHandler/channelOpen(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ChannelStateEvent)
+org/apache/james/protocols/netty/BasicChannelUpstreamHandler/exceptionCaught(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ExceptionEvent)
+org/apache/james/protocols/netty/AbstractAsyncServer/getListenAddresses()
+org/apache/james/protocols/netty/BasicChannelUpstreamHandler/messageReceived(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.MessageEvent)
+org/apache/james/protocols/netty/AbstractAsyncServer/bind()
+org/apache/james/protocols/netty/BasicChannelUpstreamHandler/channelDisconnected(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ChannelStateEvent)
+org/apache/james/protocols/netty/BasicChannelUpstreamHandler/channelConnected(org.jboss.netty.channel.ChannelHandlerContext,org.jboss.netty.channel.ChannelStateEvent)

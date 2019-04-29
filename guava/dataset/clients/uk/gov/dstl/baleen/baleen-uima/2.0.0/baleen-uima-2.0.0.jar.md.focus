@@ -1,0 +1,5 @@
+uk/gov/dstl/baleen/types/BaleenAnnotation/getExternalId()
+uk/gov/dstl/baleen/uima/UimaSupport/add(java.util.Collection)
+uk/gov/dstl/baleen/uima/UimaSupport/remove(java.util.Collection)
+uk/gov/dstl/baleen/uima/utils/TypeUtils/getType(java.lang.String,org.apache.uima.cas.TypeSystem)
+uk/gov/dstl/baleen/uima/UimaMonitor/persistCounts()

@@ -1,0 +1,6 @@
+io/gravitee/gateway/standalone/vertx/VertxHttpServerRequest/init()
+io/gravitee/gateway/standalone/vertx/VertxHttpServerRequest/parameters()
+io/gravitee/gateway/standalone/Container/initializeLogging()
+io/gravitee/gateway/standalone/vertx/VertxHttpServerFactory/getObject()
+io/gravitee/gateway/standalone/vertx/VertxHttpServerRequest/headers()
+io/gravitee/gateway/standalone/vertx/VertxEmbeddedContainer/doStart()

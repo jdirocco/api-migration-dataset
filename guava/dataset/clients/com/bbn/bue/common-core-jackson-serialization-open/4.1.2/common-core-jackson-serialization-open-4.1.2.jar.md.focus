@@ -1,0 +1,5 @@
+com/bbn/bue/common/serialization/jackson/JacksonSerializer/deserializeFrom(com.google.common.io.ByteSource)
+com/bbn/bue/common/serialization/jackson/ImmutableMapProxy/forMap(java.util.Map)
+com/bbn/bue/common/serialization/jackson/JacksonSerializer$Builder/build()
+com/bbn/bue/common/serialization/jackson/ImmutableMultimapProxy/forMultimap(com.google.common.collect.Multimap)
+com/bbn/bue/common/serialization/jackson/ImmutableMultimapProxy/toImmutableMultimap()

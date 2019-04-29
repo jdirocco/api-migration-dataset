@@ -1,0 +1,2 @@
+de/otto/hmac/authentication/RequestSigningUtil/hasValidRequestTimeStamp(de.otto.hmac.authentication.WrappedRequest,java.time.Clock)
+de/otto/hmac/authentication/WrappedOutputStream/close()

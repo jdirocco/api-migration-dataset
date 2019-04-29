@@ -1,0 +1,5 @@
+com/hivemq/spi/message/PUBLISH/copy(com.hivemq.spi.message.PUBLISH)
+com/hivemq/spi/services/configuration/validation/validators/ListenerValidator/validateKeyStorePath(com.hivemq.spi.services.configuration.entity.Tls,com.google.common.collect.ImmutableList$Builder)
+com/hivemq/spi/services/configuration/validation/validators/ListenerValidator/validateTrustStorePath(com.hivemq.spi.services.configuration.entity.Tls,com.google.common.collect.ImmutableList$Builder)
+com/hivemq/spi/security/AuthorizationEvaluator/checkPublish(java.lang.String,com.hivemq.spi.message.QoS,boolean,com.hivemq.spi.callback.security.authorization.AuthorizationResult)
+com/hivemq/spi/security/AuthorizationEvaluator/checkSubscription(java.lang.String,com.hivemq.spi.message.QoS,com.hivemq.spi.callback.security.authorization.AuthorizationResult)

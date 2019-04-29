@@ -1,0 +1,4 @@
+org/apache/camel/component/gora/GoraProducer/process(org.apache.camel.Exchange)
+org/apache/camel/component/gora/utils/GoraUtils/constractQueryFromConfiguration(org.apache.gora.store.DataStore,org.apache.camel.component.gora.GoraConfiguration)
+org/apache/camel/component/gora/GoraConsumer/poll()
+org/apache/camel/component/gora/utils/GoraUtils/constractQueryFromPropertiesMap(java.util.Map,org.apache.gora.store.DataStore,org.apache.camel.component.gora.GoraConfiguration)

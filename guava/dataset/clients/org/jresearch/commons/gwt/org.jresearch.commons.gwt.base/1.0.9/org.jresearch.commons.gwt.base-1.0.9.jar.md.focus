@@ -1,0 +1,6 @@
+org/jresearch/commons/gwt/shared/tools/Dates/printDuration(int,int)
+org/jresearch/commons/gwt/shared/tools/Dates/defaultDuration(int)
+org/jresearch/commons/gwt/client/mvc/event/Bus/fireImmediately(com.google.web.bindery.event.shared.Event,java.lang.Object,boolean)
+org/jresearch/commons/gwt/shared/model/localization/LocaleModel/getLocaleName()
+org/jresearch/commons/gwt/client/app/AbstractAppController/onSetLanguage(org.jresearch.commons.gwt.client.mvc.event.SetLanguageEvent)
+org/jresearch/commons/gwt/client/app/AbstractAppController/onChangeOfflineMode()

@@ -1,0 +1,2 @@
+io/github/msdk/featdet/targeteddetection/TargetedDetectionMethod/execute()
+io/github/msdk/featdet/targeteddetection/BuildingChromatogram/cropChromatogram(com.google.common.collect.Range,java.lang.Double,java.lang.Double)

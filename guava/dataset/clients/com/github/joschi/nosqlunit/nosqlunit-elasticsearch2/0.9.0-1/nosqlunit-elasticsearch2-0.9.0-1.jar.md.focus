@@ -1,0 +1,5 @@
+com/github/joschi/nosqlunit/elasticsearch2/LowLevelElasticSearchOperations/assertThatConnectionToElasticsearchIsPossible(java.lang.String,int)
+com/github/joschi/nosqlunit/elasticsearch2/ElasticsearchAssertion/strictAssertEquals(java.util.List,org.elasticsearch.client.Client)
+com/github/joschi/nosqlunit/elasticsearch2/ElasticsearchAssertion/checkDocumentEquality(java.util.Map,org.elasticsearch.action.get.GetRequestBuilder,org.elasticsearch.action.get.GetResponse)
+com/github/joschi/nosqlunit/elasticsearch2/ElasticsearchOperation/clearDocuments()
+com/github/joschi/nosqlunit/elasticsearch2/parser/DataReader/insertDocument(java.util.List)

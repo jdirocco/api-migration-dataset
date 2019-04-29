@@ -1,0 +1,7 @@
+org/onosproject/rest/DevicesWebResource/getDevicePorts(java.lang.String)
+org/onosproject/codec/impl/LinkCodec/encode(org.onosproject.net.Link,org.onosproject.codec.CodecContext)
+org/onosproject/rest/exceptions/AbstractMapper/response(javax.ws.rs.core.Response$Status,java.lang.Throwable)
+org/onosproject/rest/ConfigProvider/parseHost(org.onosproject.net.host.HostProviderService,com.fasterxml.jackson.databind.JsonNode)
+org/onosproject/codec/impl/DeviceCodec/encode(org.onosproject.net.Device,org.onosproject.codec.CodecContext)
+org/onosproject/rest/ConfigResource/topology(java.io.InputStream)
+org/onosproject/codec/impl/PortCodec/encode(org.onosproject.net.Port,org.onosproject.codec.CodecContext)

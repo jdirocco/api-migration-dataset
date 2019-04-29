@@ -1,0 +1,3 @@
+io/github/msdk/io/mzxml/MzXMLConverter/extractPolarity(uk.ac.ebi.pride.tools.jmzreader.model.Spectrum)
+io/github/msdk/io/mzxml/MzXMLConverter/extractChromatographyData(uk.ac.ebi.pride.tools.jmzreader.model.Spectrum)
+io/github/msdk/io/mzxml/MzXMLFileImportMethod/execute()

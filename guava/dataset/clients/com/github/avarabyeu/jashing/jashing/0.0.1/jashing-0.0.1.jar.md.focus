@@ -1,0 +1,4 @@
+com/github/avarabyeu/jashing/core/EventsModule/configure()
+com/github/avarabyeu/jashing/core/JashingModule/configure()
+com/github/avarabyeu/jashing/core/EventsModule$EventSourcePrivateModule/configure()
+com/github/avarabyeu/jashing/core/EventsModule/mapEventSources()

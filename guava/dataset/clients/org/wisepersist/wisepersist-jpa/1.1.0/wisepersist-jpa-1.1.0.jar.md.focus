@@ -1,0 +1,1 @@
+org/wisepersist/jpa/AbstractJpaMethodInterceptor/checkAndRunJpaOperation(org.aopalliance.intercept.MethodInvocation,boolean)

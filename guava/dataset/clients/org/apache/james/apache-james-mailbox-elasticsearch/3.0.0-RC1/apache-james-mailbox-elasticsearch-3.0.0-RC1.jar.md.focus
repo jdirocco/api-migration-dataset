@@ -1,0 +1,8 @@
+org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndex/search(org.apache.james.mailbox.MailboxSession,org.apache.james.mailbox.store.mail.model.Mailbox,org.apache.james.mailbox.model.SearchQuery)
+org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndex/add(org.apache.james.mailbox.MailboxSession,org.apache.james.mailbox.store.mail.model.Mailbox,org.apache.james.mailbox.store.mail.model.MailboxMessage)
+org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndex/search(org.apache.james.mailbox.MailboxSession,org.apache.james.mailbox.model.MultimailboxesSearchQuery,long)
+org/apache/james/mailbox/elasticsearch/search/ElasticSearchSearcher/getSearchRequestBuilder(org.elasticsearch.client.Client,java.util.List,org.apache.james.mailbox.model.MultimailboxesSearchQuery,java.util.Optional)
+org/apache/james/mailbox/elasticsearch/query/CriterionConverter/createNumericFilter(java.lang.String,org.apache.james.mailbox.model.SearchQuery$NumericOperator)
+org/apache/james/mailbox/elasticsearch/json/MimePartParser/extractMimePartBodyDescription(org.apache.james.mime4j.stream.MimeTokenStream)
+org/apache/james/mailbox/elasticsearch/search/ElasticSearchSearcher/extractContentFromHit(org.elasticsearch.search.SearchHit)
+org/apache/james/mailbox/elasticsearch/json/IndexableMessage$Builder/instanciateIndexedMessage()

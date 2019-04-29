@@ -1,0 +1,4 @@
+org/apache/james/mailbox/tika/TikaHttpClientImpl/recursiveMetaDataAsJson(java.io.InputStream,java.lang.String)
+org/apache/james/mailbox/tika/CachingTextExtractor/CachingTextExtractor(org.apache.james.mailbox.extractor.TextExtractor,java.time.Duration,java.lang.Long,org.apache.james.metrics.api.MetricFactory,org.apache.james.metrics.api.GaugeRegistry)
+org/apache/james/mailbox/tika/TikaTextExtractor$ContentAndMetadataDeserializer/asListOfString(com.fasterxml.jackson.databind.JsonNode)
+org/apache/james/mailbox/tika/TikaTextExtractor$ContentAndMetadataDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)

@@ -1,0 +1,2 @@
+io/dropwizard/jackson/FuzzyEnumModule$PermissiveEnumDeserializer/deserialize(com.fasterxml.jackson.core.JsonParser,com.fasterxml.jackson.databind.DeserializationContext)
+io/dropwizard/jackson/DiscoverableSubtypeResolver/discoverServices(java.lang.Class)

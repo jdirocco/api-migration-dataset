@@ -1,0 +1,4 @@
+com/google/errorprone/DocGen/main(java.lang.String%5B%5D)
+com/google/errorprone/DocGen/process(java.util.Set,javax.annotation.processing.RoundEnvironment)
+com/google/errorprone/BugPatternIndexYamlWriter/dump(java.util.Collection,java.io.Writer)
+com/google/errorprone/BugPatternFileGenerator/processLine(java.lang.String)

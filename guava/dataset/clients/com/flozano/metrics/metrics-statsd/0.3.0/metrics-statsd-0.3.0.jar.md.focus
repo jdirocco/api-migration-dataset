@@ -1,0 +1,3 @@
+com/flozano/metrics/client/statsd/MetricArrayToBytesEncoder/encode(io.netty.channel.ChannelHandlerContext,com.flozano.metrics.client.MetricValue%5B%5D,java.util.List)
+com/flozano/metrics/client/statsd/NettyStatsDClientImpl/NettyStatsDClientImpl(java.util.function.UnaryOperator,java.lang.String,int,io.netty.channel.EventLoopGroup,boolean,double)
+com/flozano/metrics/client/statsd/RatedStatsDClient/transformed(com.flozano.metrics.client.MetricValue%5B%5D)

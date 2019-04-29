@@ -1,0 +1,5 @@
+com/torodb/torod/d2r/DefaultD2RTranslator/translateDocStructure(com.torodb.torod.d2r.DefaultD2RTranslator$SubDocValueToDocValueTranslator$Argument)
+com/torodb/torod/d2r/DocumentSplitter$ValueTranslator/visit(com.torodb.kvdocument.values.ArrayValue,com.torodb.torod.d2r.DocumentSplitter$TranslatorConsumer)
+com/torodb/torod/d2r/DocumentSplitter$ValueTranslator/visit(com.torodb.kvdocument.values.ObjectValue,com.torodb.torod.d2r.DocumentSplitter$TranslatorConsumer)
+com/torodb/torod/d2r/DocumentSplitter/getSubDocType(com.torodb.kvdocument.values.ObjectValue)
+com/torodb/torod/d2r/DefaultD2RTranslator$SubDocValueToDocValueTranslator/visit(com.torodb.torod.core.subdocument.values.ArrayValue,com.torodb.torod.d2r.DefaultD2RTranslator$SubDocValueToDocValueTranslator$Argument)

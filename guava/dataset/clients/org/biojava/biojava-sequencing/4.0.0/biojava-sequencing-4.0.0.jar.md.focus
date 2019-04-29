@@ -1,0 +1,5 @@
+org/biojava/nbio/sequencing/io/fastq/FastqTools/errorProbabilities(org.biojava.nbio.sequencing.io.fastq.Fastq)
+org/biojava/nbio/sequencing/io/fastq/StreamingFastqParser$1/validateQuality(java.lang.String)
+org/biojava/nbio/sequencing/io/fastq/FastqTools/qualityScores(org.biojava.nbio.sequencing.io.fastq.Fastq)
+org/biojava/nbio/sequencing/io/fastq/AbstractFastqWriter/append(java.lang.Appendable,java.lang.Iterable)
+org/biojava/nbio/sequencing/io/fastq/FastqParser$FastqParserLineProcessor/processLine(java.lang.String)

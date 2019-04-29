@@ -1,0 +1,4 @@
+io/github/msdk/io/nativeformats/ThermoRawImportMethod/execute()
+io/github/msdk/io/nativeformats/RawDumpParser/parseLine(java.lang.String,java.io.InputStream)
+io/github/msdk/io/nativeformats/WatersRawImportMethod/execute()
+io/github/msdk/io/nativeformats/ZipUtils/extractStreamToFolder(java.io.InputStream,java.io.File)

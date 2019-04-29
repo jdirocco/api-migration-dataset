@@ -1,0 +1,8 @@
+com/urswolfer/gerrit/client/rest/http/LoginCache/invalidateLoginDataOnNewSettings()
+com/urswolfer/gerrit/client/rest/http/GerritRestClient/extractGerritAuth(org.apache.http.HttpResponse)
+com/urswolfer/gerrit/client/rest/http/GerritRestClient/doRest(java.lang.String,java.lang.String,com.urswolfer.gerrit.client.rest.http.GerritRestClient$HttpVerb)
+com/urswolfer/gerrit/client/rest/http/projects/ProjectsRestClient/list(com.google.gerrit.extensions.api.projects.Projects$ListRequest)
+com/urswolfer/gerrit/client/rest/http/changes/ChangesRestClient/get(com.google.gerrit.extensions.api.changes.Changes$QueryRequest)
+com/urswolfer/gerrit/client/rest/http/GerritRestClient/getHttpClient(org.apache.http.protocol.HttpContext)
+com/urswolfer/gerrit/client/rest/http/GerritRestClient/checkStatusCode(org.apache.http.HttpResponse)
+com/urswolfer/gerrit/client/rest/http/GerritRestClient/tryGerritHttpFormAuth(org.apache.http.impl.client.HttpClientBuilder,org.apache.http.protocol.HttpContext)

@@ -1,0 +1,8 @@
+com/proofpoint/jmx/JmxHttpModule$CompositeDataSerializer/serialize(javax.management.openmbean.CompositeData,com.fasterxml.jackson.core.JsonGenerator,com.fasterxml.jackson.databind.SerializerProvider)
+com/proofpoint/jmx/MBeanRepresentation$OperationRepresentation/MBeanRepresentation$OperationRepresentation(javax.management.MBeanOperationInfo)
+com/proofpoint/jmx/AdminServerCredentialVerifier/authenticate(java.lang.String)
+com/proofpoint/jmx/JmxHttpModule/toList(javax.management.openmbean.TabularData)
+com/proofpoint/jmx/JmxHttpModule/toMap(javax.management.openmbean.CompositeData)
+com/proofpoint/jmx/JmxHttpModule/configure(com.google.inject.Binder)
+com/proofpoint/jmx/MBeanRepresentation/MBeanRepresentation(javax.management.MBeanServer,javax.management.ObjectName,com.fasterxml.jackson.databind.ObjectMapper)
+com/proofpoint/jmx/ConfigurationResource/getConfiguration()

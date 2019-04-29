@@ -1,0 +1,2 @@
+com/github/wnameless/workbookaccessor/WorkbookWriter/addRow(java.lang.Iterable)
+com/github/wnameless/workbookaccessor/WorkbookReader/rowToList(org.apache.poi.ss.usermodel.Row,boolean)

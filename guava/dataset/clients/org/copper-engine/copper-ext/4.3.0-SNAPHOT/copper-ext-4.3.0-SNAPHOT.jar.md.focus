@@ -1,0 +1,5 @@
+org/copperengine/ext/wfrepo/classpath/ClasspathWorkflowRepository/start()
+org/copperengine/ext/persistent/RdbmsEngineFactory/createDialect(javax.sql.DataSource,org.copperengine.core.common.WorkflowRepository,org.copperengine.core.EngineIdProvider)
+org/copperengine/ext/wfrepo/classpath/ClasspathWorkflowRepository/findWorkflowClasses(java.util.List,java.lang.ClassLoader)
+org/copperengine/ext/persistent/AbstractPersistentEngineFactory/createProcessorPoolManager()
+org/copperengine/ext/wfrepo/classpath/ClasspathWorkflowRepository/findInterruptableMethods(java.util.Set,java.lang.ClassLoader)

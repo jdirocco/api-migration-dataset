@@ -1,0 +1,4 @@
+org/apache/james/adapter/mailbox/MailboxManagerManagement/deleteMailboxes(java.lang.String)
+org/apache/james/adapter/mailbox/MailboxCopierManagement/getMailboxManagerBeans()
+org/apache/james/adapter/mailbox/MailboxManagerManagement/listMailboxes(java.lang.String)
+org/apache/james/adapter/mailbox/MailboxCopierManagement/copy(java.lang.String,java.lang.String)

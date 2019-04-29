@@ -1,0 +1,2 @@
+org/aksw/jena_sparql_api/web/server/ServerUtils/getExternalForm(java.lang.Class)
+org/aksw/jena_sparql_api/web/server/WebAppInitializerSparqlServiceUtils/init(javax.servlet.ServletContext,org.springframework.web.context.WebApplicationContext)

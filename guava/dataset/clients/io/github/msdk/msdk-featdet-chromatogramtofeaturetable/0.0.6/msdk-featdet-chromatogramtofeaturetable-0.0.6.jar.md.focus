@@ -1,0 +1,3 @@
+io/github/msdk/featdet/chromatogramtofeaturetable/ChromatogramToFeatureTableMethod/addDataToRow(io.github.msdk.datamodel.featuretables.FeatureTableRow,io.github.msdk.datamodel.chromatograms.Chromatogram,java.util.Map)
+io/github/msdk/featdet/chromatogramtofeaturetable/ChromatogramToFeatureTableMethod/addSampleColumns(io.github.msdk.datamodel.featuretables.FeatureTable,io.github.msdk.datamodel.featuretables.Sample)
+io/github/msdk/featdet/chromatogramtofeaturetable/ChromatogramToFeatureTableMethod/execute()

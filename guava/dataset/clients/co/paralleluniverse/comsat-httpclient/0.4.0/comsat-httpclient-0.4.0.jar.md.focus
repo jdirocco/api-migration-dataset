@@ -1,0 +1,2 @@
+co/paralleluniverse/fibers/httpclient/FiberHttpClientBuilder/create(int)
+co/paralleluniverse/fibers/httpclient/FiberHttpClient/doExecute(org.apache.http.HttpHost,org.apache.http.HttpRequest,org.apache.http.protocol.HttpContext)

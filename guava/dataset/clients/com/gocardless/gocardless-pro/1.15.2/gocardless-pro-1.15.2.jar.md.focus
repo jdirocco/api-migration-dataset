@@ -1,0 +1,7 @@
+com/gocardless/http/ApiResponse/buildHeaderMap(java.util.Map)
+com/gocardless/http/UrlFormatter/formatUrl(java.lang.String,java.util.Map,java.util.Map)
+com/gocardless/http/ResponseParser/parsePage(java.io.Reader,java.lang.String,com.google.gson.reflect.TypeToken)
+com/gocardless/http/LoggingInterceptor/intercept(com.squareup.okhttp.Interceptor$Chain)
+com/gocardless/http/HttpClient/buildRequest(com.gocardless.http.ApiRequest,java.util.Map)
+com/gocardless/http/IdempotentPostRequest/execute()
+com/gocardless/http/HttpClient/executeWithRetries(com.gocardless.http.ApiRequest,java.util.Map)

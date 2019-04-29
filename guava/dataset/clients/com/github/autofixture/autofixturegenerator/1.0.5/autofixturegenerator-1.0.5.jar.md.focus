@@ -1,0 +1,2 @@
+autofixture/publicinterface/generators/RandomNumberGenerator/next(autofixture.publicinterface.InstanceType,autofixture.publicinterface.FixtureContract)
+autofixture/publicinterface/generators/OptionalsGenerator/next(autofixture.publicinterface.InstanceType,autofixture.publicinterface.FixtureContract)

@@ -1,0 +1,5 @@
+java+initializer:///com/wandrell/tabletop/dice/generated/DiceNotationGrammarLexer/DiceNotationGrammarLexer$initializer
+com/wandrell/tabletop/dice/generated/DiceNotationGrammarParser/function()
+com/wandrell/tabletop/dice/generated/DiceNotationGrammarParser/binaryOp()
+com/wandrell/tabletop/dice/roller/DefaultRoller/roll(com.wandrell.tabletop.dice.Dice)
+java+initializer:///com/wandrell/tabletop/dice/generated/DiceNotationGrammarParser/DiceNotationGrammarParser$initializer

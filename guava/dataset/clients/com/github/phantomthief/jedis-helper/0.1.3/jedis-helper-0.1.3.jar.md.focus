@@ -1,0 +1,3 @@
+com/github/phantomthief/jedis/JedisHelper$PoolableJedisCommands/invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object%5B%5D)
+com/github/phantomthief/jedis/JedisHelper/mapToLong(java.util.Map$Entry)
+com/github/phantomthief/jedis/JedisHelper/pipeline(java.lang.Iterable,java.util.function.BiFunction,java.util.function.Function)

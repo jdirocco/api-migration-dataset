@@ -1,0 +1,8 @@
+net/serenitybdd/rest/utils/RestResponseRecordingHelper/print(com.jayway.restassured.response.Response)
+net/serenitybdd/rest/utils/RestReportingHelper/registerCall(net.serenitybdd.core.rest.RestMethod,com.jayway.restassured.response.Response,net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated,java.lang.String,java.lang.Object%5B%5D)
+net/serenitybdd/rest/utils/RestReportingHelper/recordRestSpecificationData(net.serenitybdd.core.rest.RestMethod,net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated,java.lang.String,java.lang.Object%5B%5D)
+net/serenitybdd/rest/utils/RestReportingHelper/registerCall(net.serenitybdd.core.rest.RestMethod,net.serenitybdd.rest.decorators.request.RequestSpecificationDecorated,java.lang.String,java.lang.RuntimeException,java.lang.Object%5B%5D)
+net/serenitybdd/rest/decorators/request/RequestSpecificationCookieConfigurations/cookies(java.util.Map)
+net/serenitybdd/rest/decorators/request/RequestSpecificationDecorated/execute(net.serenitybdd.core.rest.RestMethod,java.lang.String,java.lang.Object%5B%5D)
+net/serenitybdd/rest/filters/FieldsRecordingFilter/filter(com.jayway.restassured.specification.FilterableRequestSpecification,com.jayway.restassured.specification.FilterableResponseSpecification,com.jayway.restassured.filter.FilterContext)
+net/serenitybdd/rest/decorators/request/RequestSpecificationHeaderConfigurations/headers(com.jayway.restassured.response.Headers)

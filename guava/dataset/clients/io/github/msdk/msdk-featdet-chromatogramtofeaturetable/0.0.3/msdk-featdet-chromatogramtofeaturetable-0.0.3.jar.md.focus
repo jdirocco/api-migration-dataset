@@ -1,0 +1,2 @@
+io/github/msdk/featdet/chromatogramtofeaturetable/ChromatogramToFeatureTableMethod/addColumns(io.github.msdk.datamodel.featuretables.FeatureTable)
+io/github/msdk/featdet/chromatogramtofeaturetable/ChromatogramToFeatureTableMethod/execute()

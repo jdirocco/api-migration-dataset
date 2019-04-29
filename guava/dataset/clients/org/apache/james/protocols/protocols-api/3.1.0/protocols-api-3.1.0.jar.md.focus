@@ -1,0 +1,4 @@
+org/apache/james/protocols/api/handler/CommandDispatcher/dispatchCommandHandlers(org.apache.james.protocols.api.ProtocolSession,org.apache.james.protocols.api.Request)
+org/apache/james/protocols/api/handler/CommandDispatcher/parseRequest(org.apache.james.protocols.api.ProtocolSession,java.nio.ByteBuffer)
+org/apache/james/protocols/api/AbstractProtocolTransport/toBytes(org.apache.james.protocols.api.Response)
+org/apache/james/protocols/api/handler/CommandDispatcher/wireExtensions(java.lang.Class,java.util.List)

@@ -1,0 +1,2 @@
+org/xwiki/rendering/internal/parser/confluencexhtml/wikimodel/ConfluenceXWikiGeneratorListener/onImage(org.xwiki.rendering.wikimodel.WikiReference)
+org/xwiki/rendering/internal/parser/confluencexhtml/wikimodel/ConfluenceXWikiGeneratorListener/onReference(org.xwiki.rendering.wikimodel.WikiReference)

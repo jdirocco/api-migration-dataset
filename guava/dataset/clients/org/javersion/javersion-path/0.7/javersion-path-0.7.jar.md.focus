@@ -1,0 +1,6 @@
+org/javersion/path/parser/PropertyPathParser/indexedOrAny()
+org/javersion/path/parser/PropertyPathParser/parsePath()
+java+initializer:///org/javersion/path/parser/PropertyPathLexer/PropertyPathLexer$initializer
+org/javersion/path/Schema/Schema(org.javersion.path.Schema$Builder,java.util.IdentityHashMap)
+java+initializer:///org/javersion/path/parser/PropertyPathParser/PropertyPathParser$initializer
+org/javersion/path/PropertyPath/keyOrIndex(org.javersion.path.PropertyPath$NodeId)

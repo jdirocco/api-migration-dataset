@@ -1,0 +1,5 @@
+com/thebuzzmedia/exiftool/ExifTool/getImageMetaArguments(com.thebuzzmedia.exiftool.Format,java.io.File,java.util.Collection)
+com/thebuzzmedia/exiftool/core/strategies/StayOpenStrategy/execute(com.thebuzzmedia.exiftool.process.CommandExecutor,java.lang.String,java.util.List,com.thebuzzmedia.exiftool.process.OutputHandler)
+com/thebuzzmedia/exiftool/core/cache/DefaultVersionCache/load(java.lang.String,com.thebuzzmedia.exiftool.process.CommandExecutor)
+com/thebuzzmedia/exiftool/core/strategies/PoolStrategy/close()
+com/thebuzzmedia/exiftool/ExifTool/setImageMetaArguments(com.thebuzzmedia.exiftool.Format,java.io.File,java.util.Map)

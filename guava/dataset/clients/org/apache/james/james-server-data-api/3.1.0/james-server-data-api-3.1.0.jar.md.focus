@@ -1,0 +1,7 @@
+org/apache/james/rrt/lib/UserRewritter$RegexRewriter/regexMap(org.apache.james.core.MailAddress,java.lang.String)
+org/apache/james/rrt/lib/UserRewritter$DomainRewriter/$deserializeLambda$(java.lang.invoke.SerializedLambda)
+org/apache/james/mailrepository/api/MailRepositoryUrl/MailRepositoryUrl(java.lang.String)
+org/apache/james/rrt/lib/UserRewritter$ReplaceRewriter/$deserializeLambda$(java.lang.invoke.SerializedLambda)
+org/apache/james/rrt/lib/UserRewritter$RegexRewriter/lambda$generateUserRewriter$5e576899$1(java.lang.String,org.apache.james.core.User)
+org/apache/james/rrt/lib/UserRewritter$ThrowingRewriter/$deserializeLambda$(java.lang.invoke.SerializedLambda)
+org/apache/james/rrt/lib/UserRewritter$RegexRewriter/$deserializeLambda$(java.lang.invoke.SerializedLambda)

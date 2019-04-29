@@ -1,0 +1,2 @@
+com/github/avarabyeu/jashing/integration/jenkins/JenkinsActiveJobsEventSource$JobTracker/track()
+com/github/avarabyeu/jashing/integration/jenkins/JenkinsModule/provideJenkinsClient(java.lang.String)

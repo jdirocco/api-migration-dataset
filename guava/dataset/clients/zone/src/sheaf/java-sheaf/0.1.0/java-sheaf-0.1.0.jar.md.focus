@@ -1,0 +1,5 @@
+zone/src/sheaf/properties/SystemProperties/isInsideEclipse()
+zone/src/sheaf/properties/SystemProperties/isRunFromEclipseProjectDirWithLinkedRepoJar(java.io.File,java.net.URL)
+zone/src/sheaf/properties/SystemProperties/evaluateString(java.lang.String,java.util.Map)
+java+initializer:///zone/src/sheaf/properties/SystemProperties/SystemProperties$initializer
+zone/src/sheaf/properties/SystemProperties/loadProperties(java.io.File,java.util.Properties)

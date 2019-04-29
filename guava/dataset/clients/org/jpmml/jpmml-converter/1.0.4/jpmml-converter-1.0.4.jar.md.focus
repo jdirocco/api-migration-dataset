@@ -1,0 +1,6 @@
+org/jpmml/converter/MiningModelUtil/createBinaryLogisticClassification(org.dmg.pmml.FieldName,java.util.List,java.util.List,org.dmg.pmml.Model,double,boolean)
+org/jpmml/converter/MiningModelUtil/createClassification(org.dmg.pmml.FieldName,java.util.List,java.util.List,java.util.List,org.dmg.pmml.RegressionNormalizationMethodType,boolean)
+org/jpmml/converter/ModelUtil/createMiningSchema(org.dmg.pmml.FieldName,java.util.List,org.dmg.pmml.PMMLObject)
+org/jpmml/converter/PMMLUtil/createHeader(java.lang.String,java.lang.String)
+org/jpmml/converter/PMMLUtil/createRealSparseArray(java.util.List,java.lang.Double)
+org/jpmml/converter/MiningModelUtil/createSegmentation(org.dmg.pmml.MultipleModelMethodType,java.util.List,java.util.List)

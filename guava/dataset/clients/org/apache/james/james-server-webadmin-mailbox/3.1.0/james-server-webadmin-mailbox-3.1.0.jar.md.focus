@@ -1,0 +1,8 @@
+org/apache/james/webadmin/routes/UserQuotaRoutes/checkUserExist(spark.Request)
+org/apache/james/webadmin/routes/UserMailboxesRoutes/lambda$defineMailboxExists$3(spark.Request,spark.Response)
+org/apache/james/webadmin/routes/UserMailboxesRoutes/lambda$defineGetUserMailboxes$0(spark.Request,spark.Response)
+org/apache/james/webadmin/routes/DomainQuotaRoutes/checkDomainExist(spark.Request)
+org/apache/james/webadmin/routes/GlobalQuotaRoutes/lambda$defineUpdateQuota$0(spark.Request,spark.Response)
+org/apache/james/webadmin/routes/UserMailboxesRoutes/lambda$defineDeleteUserMailboxes$2(spark.Request,spark.Response)
+org/apache/james/webadmin/routes/UserMailboxesRoutes/lambda$defineDeleteUserMailbox$1(spark.Request,spark.Response)
+org/apache/james/webadmin/routes/UserMailboxesRoutes/lambda$defineCreateUserMailbox$4(spark.Request,spark.Response)

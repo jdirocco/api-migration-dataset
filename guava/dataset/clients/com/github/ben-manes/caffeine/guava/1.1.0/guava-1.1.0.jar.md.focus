@@ -1,0 +1,2 @@
+com/github/benmanes/caffeine/guava/CaffeinatedGuavaLoadingCache/getAll(java.lang.Iterable)
+com/github/benmanes/caffeine/guava/CaffeinatedGuavaLoadingCache$BulkLoader/loadAll(java.lang.Iterable)

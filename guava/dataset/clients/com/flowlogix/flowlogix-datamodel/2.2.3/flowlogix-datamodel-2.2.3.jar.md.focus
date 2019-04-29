@@ -1,0 +1,2 @@
+com/flowlogix/jeedao/primefaces/internal/JPAFacade/getFilters(java.util.Map,javax.persistence.criteria.CriteriaBuilder,javax.persistence.criteria.Root)
+com/flowlogix/jeedao/primefaces/internal/JPAFacade/getSort(java.util.List,javax.persistence.criteria.CriteriaBuilder,javax.persistence.criteria.Root)

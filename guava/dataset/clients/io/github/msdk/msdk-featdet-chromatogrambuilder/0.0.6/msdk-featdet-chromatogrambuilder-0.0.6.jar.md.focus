@@ -1,0 +1,3 @@
+io/github/msdk/featdet/chromatogrambuilder/HighestDataPointConnector/finishChromatograms(io.github.msdk.datamodel.rawdata.RawDataFile,io.github.msdk.datamodel.datastore.DataPointStore,java.util.List)
+io/github/msdk/featdet/chromatogrambuilder/ChromatogramBuilderMethod/execute()
+io/github/msdk/featdet/chromatogrambuilder/HighestDataPointConnector/addScan(io.github.msdk.datamodel.rawdata.RawDataFile,io.github.msdk.datamodel.rawdata.MsScan)

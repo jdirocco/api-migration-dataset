@@ -1,0 +1,4 @@
+uk/gov/dstl/baleen/javadoc/BaleenJavadoc/createResourceItem(com.sun.javadoc.FieldDoc)
+uk/gov/dstl/baleen/javadoc/BaleenJavadoc/processConfigurationParameters(com.sun.javadoc.ClassDoc)
+uk/gov/dstl/baleen/javadoc/BaleenJavadoc/processExternalResources(com.sun.javadoc.ClassDoc)
+uk/gov/dstl/baleen/javadoc/BaleenJavadoc/createParameterRow(com.sun.javadoc.FieldDoc)

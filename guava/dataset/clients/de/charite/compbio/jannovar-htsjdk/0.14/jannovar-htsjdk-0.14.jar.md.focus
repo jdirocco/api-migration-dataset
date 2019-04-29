@@ -1,0 +1,5 @@
+de/charite/compbio/jannovar/htsjdk/VariantContextWriterConstructionHelper/openVariantContextWriter(htsjdk.variant.vcf.VCFHeader,java.lang.String,de.charite.compbio.jannovar.htsjdk.InfoFields,java.util.Collection,boolean)
+de/charite/compbio/jannovar/htsjdk/VariantContextAnnotator/applyOldJannovarAnnotations(htsjdk.variant.variantcontext.VariantContext,java.util.List)
+de/charite/compbio/jannovar/htsjdk/VariantContextAnnotator/buildGenomeChange(htsjdk.variant.variantcontext.VariantContext,int)
+de/charite/compbio/jannovar/htsjdk/VariantContextAnnotator/applyStandardAnnotations(htsjdk.variant.variantcontext.VariantContext,java.util.List)
+de/charite/compbio/jannovar/htsjdk/VariantContextWriterConstructionHelper/openVariantContextWriter(htsjdk.variant.vcf.VCFHeader,java.io.OutputStream,de.charite.compbio.jannovar.htsjdk.InfoFields,java.util.Collection)

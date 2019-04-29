@@ -1,0 +1,4 @@
+com/novetta/ibg/common/dbhelp/LazyJdbcConnectionSource/initialize()
+com/novetta/ibg/common/dbhelp/LazyJdbcPooledConnectionSource/initialize()
+com/novetta/ibg/common/dbhelp/AbstractH2FileConnectionSource$DefaultSchemaTransform/apply(java.io.File)
+com/novetta/ibg/common/dbhelp/AbstractH2FileConnectionSource/getJdbcUrlSuffix()

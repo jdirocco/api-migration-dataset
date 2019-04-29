@@ -1,0 +1,8 @@
+org/richfaces/resource/plugin/HelpMojo/writeGoal(java.lang.StringBuilder,java.lang.String,org.w3c.dom.Element)
+org/richfaces/resource/plugin/ProcessMojo/execute()
+org/richfaces/resource/plugin/ProcessMojo/reorderFoundResources(java.util.Collection,org.richfaces.resource.optimizer.resource.handler.impl.DynamicResourceHandler,org.richfaces.resource.ResourceFactory)
+org/richfaces/resource/plugin/HelpMojo/toLines(java.util.List,java.lang.String,int,int)
+org/richfaces/resource/plugin/HelpMojo/build()
+org/richfaces/resource/plugin/ProcessMojo/getDefaultResourceProcessors()
+org/richfaces/resource/plugin/HelpMojo/execute()
+org/richfaces/resource/plugin/ProcessMojo/getProjectClassPath()

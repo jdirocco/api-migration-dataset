@@ -1,0 +1,8 @@
+org/jsimpledb/kv/leveldb/LevelDBAtomicKVStore/start()
+org/jsimpledb/kv/leveldb/LevelDBKVStore/LevelDBKVStore(org.iq80.leveldb.DB,org.iq80.leveldb.ReadOptions,org.iq80.leveldb.WriteBatch)
+org/jsimpledb/kv/leveldb/LevelDBKVStore$Iterator/findNext()
+org/jsimpledb/kv/leveldb/LevelDBAtomicKVStore/mutate(org.jsimpledb.kv.mvcc.Mutations,boolean)
+org/jsimpledb/kv/leveldb/LevelDBKVStore$Iterator/close()
+org/jsimpledb/kv/leveldb/LevelDBKVStore$Iterator/remove()
+org/jsimpledb/kv/leveldb/LevelDBUtil/getDefaultDBFactory()
+org/jsimpledb/kv/leveldb/LevelDBKVStore$Iterator/LevelDBKVStore$Iterator(org.jsimpledb.kv.leveldb.LevelDBKVStore,org.iq80.leveldb.DBIterator,byte%5B%5D,byte%5B%5D,boolean)

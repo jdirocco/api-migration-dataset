@@ -1,0 +1,3 @@
+com/cedarsoft/annotations/instrumentation/ThreadAnnotationTransformer/transformClass(javassist.CtClass)
+com/cedarsoft/annotations/instrumentation/NonBlockingAnnotationTransformer/transformClass(javassist.CtClass)
+com/cedarsoft/annotations/instrumentation/DefaultNonNullAnnotationTransformer/transformClass(javassist.CtClass)

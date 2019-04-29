@@ -1,0 +1,3 @@
+org/apache/james/jmap/api/vacation/VacationPatch/builderFrom(org.apache.james.jmap.api.vacation.Vacation)
+org/apache/james/jmap/api/vacation/VacationPatch/patch(org.apache.james.jmap.api.vacation.Vacation)
+org/apache/james/jmap/memory/vacation/MemoryNotificationRegistry/isRegistered(org.apache.james.jmap.api.vacation.AccountId,org.apache.james.jmap.api.vacation.RecipientId)

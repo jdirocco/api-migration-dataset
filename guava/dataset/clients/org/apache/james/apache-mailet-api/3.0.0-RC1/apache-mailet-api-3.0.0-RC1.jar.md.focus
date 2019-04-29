@@ -1,0 +1,6 @@
+org/apache/mailet/MailAddress/MailAddress(java.lang.String)
+org/apache/mailet/MailAddress/parseNumber(java.lang.StringBuffer,java.lang.String,int)
+org/apache/mailet/MailAddress/parseQuotedLocalPart(java.lang.StringBuffer,java.lang.String,int)
+org/apache/mailet/MailAddress/parseDomain(java.lang.StringBuffer,java.lang.String,int)
+org/apache/mailet/MailAddress/parseDomainLiteral(java.lang.StringBuffer,java.lang.String,int)
+org/apache/mailet/MailAddress/parseUnquotedLocalPart(java.lang.StringBuffer,java.lang.String,int)

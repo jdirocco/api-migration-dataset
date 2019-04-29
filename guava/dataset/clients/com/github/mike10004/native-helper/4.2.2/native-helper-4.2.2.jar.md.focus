@@ -1,0 +1,6 @@
+com/novetta/ibg/common/sys/Whicher/which(java.lang.Iterable)
+com/github/mike10004/nativehelper/Program/configureTask(com.novetta.ibg.common.sys.ExposedExecTask,java.util.Map)
+com/novetta/ibg/common/sys/AntExecutor/AntExecutor(org.apache.tools.ant.taskdefs.ExecTask)
+com/novetta/ibg/common/sys/EchoingPumpStreamHandler/createPump(java.io.InputStream,java.io.OutputStream,boolean,boolean)
+com/novetta/ibg/common/sys/StringReadingEcho/consume(java.lang.String)
+com/novetta/ibg/common/sys/Whicher$MultipleSuffixTransform/apply(java.lang.String)

@@ -1,0 +1,6 @@
+au/gov/amsa/ihs/reader/OperatorIhsReader$MyDefaultHandler/startElement(java.lang.String,java.lang.String,java.lang.String,org.xml.sax.Attributes)
+au/gov/amsa/ihs/reader/OperatorIhsReader$MyDefaultHandler/characters(char%5B%5D,int,int)
+au/gov/amsa/ihs/reader/IhsReader$ShipCreator/buildShip()
+au/gov/amsa/ihs/reader/IhsReader$1/call(rx.Subscriber)
+au/gov/amsa/ihs/reader/ExtractAllTabDelimitedMain/writeDelimited(java.lang.String,java.io.File,java.io.File%5B%5D)
+au/gov/amsa/ihs/reader/ExtractCsvMain$1/call(au.gov.amsa.ihs.model.Ship)

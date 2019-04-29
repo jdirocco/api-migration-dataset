@@ -1,0 +1,2 @@
+play/libs/ws/ahc/AhcWSRequest/buildRequest()
+play/libs/ws/ahc/AhcWSRequest/$deserializeLambda$(java.lang.invoke.SerializedLambda)

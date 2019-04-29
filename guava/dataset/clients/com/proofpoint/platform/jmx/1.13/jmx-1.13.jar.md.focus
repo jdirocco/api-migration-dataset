@@ -1,0 +1,6 @@
+com/proofpoint/jmx/JmxAgent/JmxAgent(com.proofpoint.jmx.JmxConfig)
+com/proofpoint/jmx/StackTraceMBean/getStackTrace()
+com/proofpoint/jmx/JmxAgent/getRunningAgentAddress(java.lang.Integer,java.lang.Integer)
+com/proofpoint/jmx/JmxInspector/JmxInspector(com.google.inject.Injector)
+com/proofpoint/jmx/JmxInspector/addConfig(com.google.common.collect.Multimap,java.lang.Class,com.google.common.collect.ImmutableSortedSet$Builder)
+com/proofpoint/jmx/JmxModule/configure(com.google.inject.Binder)

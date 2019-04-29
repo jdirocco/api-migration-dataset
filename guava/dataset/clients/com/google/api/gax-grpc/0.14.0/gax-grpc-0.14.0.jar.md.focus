@@ -1,0 +1,10 @@
+com/google/api/gax/grpc/OperationFuture/setResultFromOperation(com.google.common.util.concurrent.SettableFuture,com.google.longrunning.Operation,java.lang.Class)
+java+initializer:///com/google/longrunning/OperationsSettings/OperationsSettings$initializer
+com/google/api/gax/grpc/testing/MockServiceHelper/MockServiceHelper(java.lang.String,java.util.List)
+com/google/longrunning/OperationsClient/OperationsClient(com.google.longrunning.OperationsSettings)
+java+initializer:///com/google/longrunning/OperationsSettings$Builder/OperationsSettings$Builder$initializer
+com/google/api/gax/grpc/BatcherFactory/createBatcher(com.google.api.gax.batching.PartitionKey)
+com/google/api/gax/grpc/AbstractFixedSizeCollection/getPages(com.google.api.gax.grpc.AbstractPage,int)
+com/google/api/gax/grpc/InstantiatingChannelProvider$Builder/InstantiatingChannelProvider$Builder(com.google.api.gax.grpc.InstantiatingChannelProvider)
+com/google/api/gax/grpc/InstantiatingChannelProvider/createChannel(java.util.concurrent.Executor)
+com/google/api/gax/grpc/OperationFuture$DataGetterRunnable/callImpl()

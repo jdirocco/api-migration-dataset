@@ -1,0 +1,4 @@
+org/javersion/core/Diff/diff(java.util.SortedMap,java.util.SortedMap)
+org/javersion/core/AbstractVersionGraph$Optimizer/optimize(java.util.function.Predicate)
+org/javersion/core/VersionGraphBuilder/resetVersion(org.javersion.core.Version,org.javersion.util.MutableSortedMap)
+org/javersion/core/VersionGraphBuilder/add(org.javersion.core.Version)

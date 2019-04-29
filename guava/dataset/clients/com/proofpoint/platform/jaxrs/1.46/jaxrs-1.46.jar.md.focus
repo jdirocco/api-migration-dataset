@@ -1,0 +1,8 @@
+com/proofpoint/jaxrs/BeanValidationException/messagesFor(java.util.Set)
+com/proofpoint/jaxrs/JsonMapper/writeTo(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation%5B%5D,javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)
+com/proofpoint/reporting/InRotationResource/get()
+com/proofpoint/jaxrs/SmileMapper/writeTo(java.lang.Object,java.lang.Class,java.lang.reflect.Type,java.lang.annotation.Annotation%5B%5D,javax.ws.rs.core.MediaType,javax.ws.rs.core.MultivaluedMap,java.io.OutputStream)
+com/proofpoint/jaxrs/testing/MockUriInfo/decodeQuery(java.lang.String,boolean)
+com/proofpoint/jaxrs/JaxrsModule/createJaxRsApplication(java.util.Set,java.util.Set,com.google.inject.Injector)
+com/proofpoint/jaxrs/SmileMapper/messagesFor(java.util.Collection)
+com/proofpoint/jaxrs/OverrideMethodFilter/filter(javax.ws.rs.container.ContainerRequestContext)

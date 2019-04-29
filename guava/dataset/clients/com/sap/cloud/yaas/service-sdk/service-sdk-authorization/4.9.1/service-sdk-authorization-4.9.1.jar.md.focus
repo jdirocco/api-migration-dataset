@@ -1,0 +1,5 @@
+com/sap/cloud/yaas/servicesdk/authorization/protocol/ClientCredentialsGrantProvider/postAccessTokenRequest(com.sap.cloud.yaas.servicesdk.authorization.AuthorizationScope,com.sap.cloud.yaas.servicesdk.authorization.DiagnosticContext)
+com/sap/cloud/yaas/servicesdk/authorization/AuthorizationScope/fromRawScopeList(java.lang.String%5B%5D)
+com/sap/cloud/yaas/servicesdk/authorization/integration/jaxrs/OAuth2Filter/retryRequest(javax.ws.rs.client.ClientRequestContext,javax.ws.rs.client.ClientResponseContext)
+com/sap/cloud/yaas/servicesdk/authorization/AuthorizationScope/AuthorizationScope(java.lang.String,java.util.Collection)
+com/sap/cloud/yaas/servicesdk/authorization/integration/AuthorizedExecutionTemplate/executeAuthorized(com.sap.cloud.yaas.servicesdk.authorization.AuthorizationScope,com.sap.cloud.yaas.servicesdk.authorization.DiagnosticContext,com.sap.cloud.yaas.servicesdk.authorization.integration.AuthorizedExecutionCallback)

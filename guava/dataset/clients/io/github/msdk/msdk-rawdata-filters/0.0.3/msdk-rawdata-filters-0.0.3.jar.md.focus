@@ -1,0 +1,5 @@
+io/github/msdk/rawdata/filters/ResampleFilterAlgorithm/performFilter(io.github.msdk.datamodel.rawdata.MsScan)
+io/github/msdk/rawdata/filters/CropFilterAlgorithm/performFilter(io.github.msdk.datamodel.rawdata.MsScan)
+io/github/msdk/rawdata/filters/MeanFilterAlgorithm/performFilter(io.github.msdk.datamodel.rawdata.MsScan)
+io/github/msdk/rawdata/filters/SGFilterAlgorithm/performFilter(io.github.msdk.datamodel.rawdata.MsScan)
+io/github/msdk/rawdata/filters/MSDKFilteringMethod/execute()
