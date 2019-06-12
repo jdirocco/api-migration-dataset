@@ -1,0 +1,5 @@
+org/sonar/flex/lexer/FlexLexer/create(org.sonar.flex.FlexConfiguration)
+org/sonar/flex/FlexAstScanner/create(org.sonar.flex.FlexConfiguration,java.util.List)
+org/sonar/flex/FlexAstScanner/scanSingleFile(java.io.File,org.sonar.squidbridge.SquidAstVisitor%5B%5D)
+org/sonar/flex/metrics/FileLinesVisitor/leaveFile(com.sonar.sslr.api.AstNode)
+org/sonar/flex/metrics/FileLinesVisitor/visitToken(com.sonar.sslr.api.Token)

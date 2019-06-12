@@ -1,0 +1,3 @@
+org/sonar/db/DatabaseChecker/checkOracleDriverVersion()
+org/sonar/db/DefaultDatabase/extractCommonsDbcpProperties(java.util.Properties)
+org/sonar/db/DatabaseChecker/checkMinDatabaseVersion()

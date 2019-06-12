@@ -1,0 +1,4 @@
+org/sonar/db/DatabaseChecker/checkOracleDriverVersion()
+org/sonar/db/DatabaseUtils/executeLargeInputs(java.util.Collection,com.google.common.base.Function,java.util.function.Function,java.util.function.IntFunction)
+org/sonar/db/DefaultDatabase/extractCommonsDbcpProperties(java.util.Properties)
+org/sonar/db/DatabaseChecker/checkMinDatabaseVersion()

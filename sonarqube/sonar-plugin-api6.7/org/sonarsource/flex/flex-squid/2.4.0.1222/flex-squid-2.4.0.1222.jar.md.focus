@@ -1,0 +1,3 @@
+org/sonar/flex/metrics/FileLinesVisitor/visitComment(com.sonar.sslr.api.Trivia)
+org/sonar/flex/lexer/FlexLexer/create(java.nio.charset.Charset)
+org/sonar/flex/metrics/FileLinesVisitor/visitToken(com.sonar.sslr.api.Token)
